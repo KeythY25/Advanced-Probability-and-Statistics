@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,MedicalCondition,TreatmentDuration,MedicationPrescribed,AdmissionDate,DischargeDate,MedicalCost,Outcome
+1,32,Male,Condition_5,16,Medication_2,2017-12-04,2017-12-20,99736.57,Cured
+2,72,Male,Condition_1,6,Medication_2,2018-09-20,2018-09-26,15833.35,Cured
+3,89,Male,Condition_9,27,Medication_2,2022-10-09,2022-11-05,76579.37,Cured
+4,38,Other,Condition_7,22,Medication_3,2017-04-25,2017-05-17,90412.46,Not Improved
+5,31,Male,Condition_7,7,Medication_3,2020-10-09,2020-10-16,82932.59,Cured
+6,76,Other,Condition_2,60,Medication_4,2016-09-10,2016-11-09,96294.68,Not Improved
+7,42,Other,Condition_2,3,Medication_2,2019-02-28,2019-03-03,89811.72,Improved
+8,30,Female,Condition_5,30,Medication_3,2017-06-12,2017-07-12,42287.19,Improved
+9,52,Other,Condition_2,39,Medication_2,2018-03-15,2018-04-23,21655.52,Deceased
+10,52,Other,Condition_9,15,Medication_3,2015-04-27,2015-05-12,22651.02,Cured
+11,58,Female,Condition_5,5,Medication_2,2020-04-21,2020-04-26,35178.8,Deceased
+12,68,Other,Condition_8,10,Medication_3,2017-04-24,2017-05-04,47291.28,Not Improved
+13,72,Other,Condition_7,24,Medication_2,2017-09-16,2017-10-10,5020.87,Cured
+14,24,Male,Condition_3,41,Medication_2,2021-10-03,2021-11-13,67696.89,Deceased
+15,66,Other,Condition_8,34,Medication_3,2015-11-24,2015-12-28,89458.43,Cured
+16,86,Female,Condition_6,8,Medication_3,2021-03-15,2021-03-23,36895.81,Cured
+17,51,Other,Condition_3,33,Medication_1,2019-11-17,2019-12-20,32206.62,Improved
+18,37,Female,Condition_3,35,Medication_5,2015-10-11,2015-11-15,76032.73,Deceased
+19,20,Male,Condition_6,57,Medication_3,2018-01-08,2018-03-06,36408.31,Cured
+20,28,Other,Condition_8,53,Medication_1,2017-03-22,2017-05-14,31976.21,Deceased
+21,88,Male,Condition_5,34,Medication_5,2021-04-18,2021-05-22,45262.16,Improved
+22,57,Female,Condition_6,29,Medication_5,2022-02-08,2022-03-09,77040.64,Improved
+23,26,Female,Condition_1,38,Medication_5,2018-10-08,2018-11-15,12920.85,Cured
+24,27,Other,Condition_1,15,Medication_1,2015-06-03,2015-06-18,59246.49,Improved
+25,53,Other,Condition_8,14,Medication_5,2017-12-19,2018-01-02,28661.14,Deceased
+26,49,Female,Condition_7,13,Medication_1,2016-11-14,2016-11-27,93018.85,Not Improved
+27,72,Female,Condition_8,56,Medication_1,2016-01-13,2016-03-09,56698.06,Not Improved
+28,31,Male,Condition_4,13,Medication_5,2022-03-14,2022-03-27,92281.36,Improved
+29,53,Female,Condition_4,56,Medication_1,2022-09-04,2022-10-30,43970.23,Cured
+30,87,Male,Condition_2,60,Medication_2,2017-07-16,2017-09-14,51378.58,Deceased
+31,45,Female,Condition_1,11,Medication_4,2015-07-09,2015-07-20,67657.27,Deceased
+32,54,Female,Condition_9,43,Medication_4,2017-04-10,2017-05-23,74997.52,Improved
+33,25,Other,Condition_9,4,Medication_3,2015-01-19,2015-01-23,36653.2,Deceased
+34,82,Other,Condition_3,4,Medication_5,2016-03-03,2016-03-07,22571.78,Cured
+35,48,Female,Condition_2,57,Medication_5,2018-10-20,2018-12-16,84947.87,Cured
+36,28,Female,Condition_10,37,Medication_5,2020-05-07,2020-06-13,37386.01,Not Improved
+37,48,Female,Condition_7,9,Medication_3,2022-06-25,2022-07-04,55483.36,Cured
+38,19,Female,Condition_10,37,Medication_1,2016-09-07,2016-10-14,5200.33,Not Improved
+39,34,Female,Condition_2,57,Medication_2,2020-05-06,2020-07-02,60350.65,Deceased
+40,87,Other,Condition_5,40,Medication_5,2015-11-27,2016-01-06,91133.8,Not Improved
+41,31,Male,Condition_5,8,Medication_1,2017-05-10,2017-05-18,36386.68,Improved
+42,61,Male,Condition_5,33,Medication_4,2019-01-03,2019-02-05,23980.09,Deceased
+43,53,Male,Condition_1,22,Medication_2,2019-03-24,2019-04-15,28614.38,Deceased
+44,88,Other,Condition_7,36,Medication_1,2016-02-23,2016-03-30,62304.52,Improved
+45,87,Male,Condition_6,38,Medication_5,2017-07-05,2017-08-12,83061.49,Cured
+46,57,Female,Condition_1,58,Medication_3,2018-11-08,2019-01-05,68352.63,Cured
+47,63,Other,Condition_7,40,Medication_2,2018-03-26,2018-05-05,4061.92,Improved
+48,70,Male,Condition_3,48,Medication_3,2021-11-28,2022-01-15,94285.88,Improved
+49,52,Male,Condition_2,25,Medication_1,2022-04-07,2022-05-02,91296.39,Deceased
+50,62,Female,Condition_4,15,Medication_1,2018-07-11,2018-07-26,87395.32,Not Improved
+51,26,Female,Condition_6,42,Medication_5,2021-11-27,2022-01-08,72347.31,Not Improved
+52,21,Male,Condition_5,12,Medication_5,2019-01-04,2019-01-16,18072.97,Deceased
+53,62,Other,Condition_6,28,Medication_5,2016-07-19,2016-08-16,65508.64,Improved
+54,50,Male,Condition_7,1,Medication_5,2018-06-14,2018-06-15,16559.59,Cured
+55,60,Other,Condition_6,43,Medication_1,2019-09-10,2019-10-23,5574.98,Deceased
+56,59,Female,Condition_5,36,Medication_2,2018-07-22,2018-08-27,12319.57,Deceased
+57,40,Other,Condition_10,20,Medication_4,2015-05-10,2015-05-30,76441.01,Improved
+58,73,Other,Condition_10,42,Medication_3,2022-08-15,2022-09-26,10903.32,Improved
+59,83,Female,Condition_3,43,Medication_1,2019-09-22,2019-11-04,66842.92,Not Improved
+60,29,Male,Condition_5,15,Medication_2,2017-01-02,2017-01-17,46206.38,Improved
+61,78,Other,Condition_2,30,Medication_4,2018-12-23,2019-01-22,59896.35,Deceased
+62,81,Female,Condition_4,10,Medication_1,2016-07-08,2016-07-18,91149.3,Improved
+63,84,Female,Condition_1,36,Medication_2,2016-08-05,2016-09-10,87039.82,Deceased
+64,85,Other,Condition_10,21,Medication_4,2021-09-15,2021-10-06,69525.14,Improved
+65,78,Female,Condition_5,49,Medication_2,2019-09-16,2019-11-04,42691.54,Improved
+66,53,Female,Condition_2,46,Medication_3,2018-05-11,2018-06-26,3233.1,Not Improved
+67,87,Male,Condition_3,10,Medication_2,2021-12-05,2021-12-15,27060.41,Improved
+68,26,Female,Condition_7,22,Medication_5,2022-07-02,2022-07-24,4579.17,Improved
+69,71,Female,Condition_10,45,Medication_1,2021-08-01,2021-09-15,2301.83,Not Improved
+70,56,Female,Condition_7,35,Medication_5,2018-08-08,2018-09-12,74115.08,Not Improved
+71,73,Female,Condition_1,25,Medication_3,2021-12-06,2021-12-31,34919.77,Deceased
+72,34,Other,Condition_9,2,Medication_4,2015-02-21,2015-02-23,35287.84,Deceased
+73,35,Female,Condition_3,4,Medication_3,2021-06-07,2021-06-11,41722.04,Deceased
+74,59,Female,Condition_7,18,Medication_4,2019-02-16,2019-03-06,49561.65,Cured
+75,87,Male,Condition_6,15,Medication_1,2015-01-08,2015-01-23,95316.19,Improved
+76,20,Other,Condition_3,16,Medication_2,2022-11-04,2022-11-20,59977.33,Improved
+77,77,Other,Condition_5,50,Medication_3,2017-10-20,2017-12-09,76255.16,Cured
+78,38,Female,Condition_2,38,Medication_1,2019-10-22,2019-11-29,6098.84,Deceased
+79,68,Other,Condition_4,5,Medication_5,2018-02-23,2018-02-28,89644.93,Not Improved
+80,33,Other,Condition_1,23,Medication_5,2021-11-12,2021-12-05,86059.26,Cured
+81,82,Other,Condition_6,1,Medication_4,2022-02-14,2022-02-15,96287.81,Not Improved
+82,76,Other,Condition_3,28,Medication_2,2019-10-26,2019-11-23,30653.77,Deceased
+83,77,Female,Condition_10,18,Medication_3,2018-02-09,2018-02-27,55968.12,Deceased
+84,49,Female,Condition_10,40,Medication_4,2020-01-16,2020-02-25,19557.36,Not Improved
+85,41,Female,Condition_4,23,Medication_3,2020-05-20,2020-06-12,29862.31,Not Improved
+86,89,Male,Condition_9,13,Medication_1,2018-12-14,2018-12-27,58630.41,Deceased
+87,89,Male,Condition_8,42,Medication_4,2022-01-03,2022-02-14,35311.77,Not Improved
+88,46,Female,Condition_4,20,Medication_5,2020-08-18,2020-09-07,60386.42,Not Improved
+89,72,Other,Condition_9,22,Medication_3,2022-05-10,2022-06-01,50437.92,Not Improved
+90,47,Male,Condition_4,21,Medication_1,2017-04-07,2017-04-28,67924.08,Deceased
+91,53,Other,Condition_10,49,Medication_5,2019-02-27,2019-04-17,17031.42,Improved
+92,55,Male,Condition_6,12,Medication_3,2015-12-18,2015-12-30,63840.63,Improved
+93,53,Male,Condition_1,36,Medication_3,2017-11-28,2018-01-03,40926.61,Deceased
+94,31,Male,Condition_10,19,Medication_4,2022-08-11,2022-08-30,10945.82,Improved
+95,24,Female,Condition_8,8,Medication_1,2021-08-03,2021-08-11,81974.31,Cured
+96,37,Male,Condition_10,20,Medication_1,2018-02-18,2018-03-10,39171.01,Deceased
+97,46,Other,Condition_7,29,Medication_4,2019-10-14,2019-11-12,6416.39,Not Improved
+98,90,Other,Condition_1,40,Medication_1,2018-11-07,2018-12-17,8842.63,Not Improved
+99,28,Male,Condition_4,12,Medication_5,2016-03-01,2016-03-13,40263.88,Deceased
+100,75,Other,Condition_10,31,Medication_3,2015-04-10,2015-05-11,75562.14,Not Improved
+101,76,Male,Condition_4,60,Medication_3,2018-07-04,2018-09-02,10751.44,Improved
+102,37,Female,Condition_3,5,Medication_1,2017-05-20,2017-05-25,43806.91,Not Improved
+103,74,Male,Condition_8,45,Medication_3,2021-05-17,2021-07-01,53329.19,Deceased
+104,74,Male,Condition_10,3,Medication_4,2020-10-09,2020-10-12,76201.06,Cured
+105,29,Male,Condition_10,38,Medication_1,2019-10-02,2019-11-09,93554.97,Improved
+106,78,Other,Condition_8,59,Medication_3,2017-10-14,2017-12-12,32812.31,Deceased
+107,29,Female,Condition_6,27,Medication_3,2020-11-04,2020-12-01,47795.15,Improved
+108,60,Female,Condition_8,19,Medication_4,2015-08-03,2015-08-22,27421.16,Not Improved
+109,50,Female,Condition_2,50,Medication_4,2015-11-28,2016-01-17,34962.75,Deceased
+110,70,Male,Condition_4,34,Medication_3,2022-11-15,2022-12-19,52673.84,Cured
+111,44,Female,Condition_9,9,Medication_3,2022-12-16,2022-12-25,94318.83,Cured
+112,21,Other,Condition_10,52,Medication_2,2017-05-18,2017-07-09,2781.14,Cured
+113,88,Female,Condition_2,15,Medication_1,2022-02-21,2022-03-08,22402.93,Improved
+114,81,Other,Condition_5,33,Medication_3,2021-08-16,2021-09-18,33519.97,Improved
+115,76,Other,Condition_3,25,Medication_2,2017-02-09,2017-03-06,30880.91,Deceased
+116,61,Other,Condition_5,53,Medication_1,2019-12-10,2020-02-01,85568.74,Deceased
+117,37,Female,Condition_9,31,Medication_3,2020-09-25,2020-10-26,90537.04,Deceased
+118,76,Female,Condition_4,45,Medication_2,2021-04-28,2021-06-12,74313.5,Deceased
+119,23,Female,Condition_8,46,Medication_4,2021-11-26,2022-01-11,42504.16,Improved
+120,81,Male,Condition_3,33,Medication_5,2020-02-28,2020-04-01,41428.55,Deceased
+121,30,Other,Condition_8,1,Medication_2,2021-11-05,2021-11-06,77712.73,Cured
+122,78,Female,Condition_6,40,Medication_4,2016-06-28,2016-08-07,76683.56,Deceased
+123,58,Other,Condition_8,56,Medication_5,2015-10-03,2015-11-28,63345.81,Improved
+124,54,Male,Condition_2,28,Medication_1,2016-08-06,2016-09-03,6865.27,Not Improved
+125,21,Male,Condition_6,51,Medication_1,2019-06-12,2019-08-02,99864.49,Deceased
+126,36,Male,Condition_9,27,Medication_5,2017-03-06,2017-04-02,27145.48,Cured
+127,66,Other,Condition_4,32,Medication_5,2017-04-15,2017-05-17,34111.19,Not Improved
+128,76,Female,Condition_1,58,Medication_4,2019-11-18,2020-01-15,14323.77,Improved
+129,27,Female,Condition_6,38,Medication_3,2021-12-09,2022-01-16,21377.97,Deceased
+130,56,Male,Condition_7,55,Medication_4,2016-04-13,2016-06-07,40067.55,Not Improved
+131,55,Other,Condition_5,2,Medication_4,2019-01-19,2019-01-21,61133.65,Cured
+132,81,Female,Condition_4,39,Medication_3,2018-11-07,2018-12-16,65639.81,Not Improved
+133,35,Other,Condition_2,58,Medication_1,2019-08-02,2019-09-29,4285.33,Not Improved
+134,34,Male,Condition_5,21,Medication_4,2017-04-05,2017-04-26,82936.05,Not Improved
+135,85,Other,Condition_5,54,Medication_2,2019-08-26,2019-10-19,98783.85,Not Improved
+136,61,Male,Condition_8,5,Medication_2,2018-11-24,2018-11-29,7087.17,Deceased
+137,89,Female,Condition_2,51,Medication_4,2015-05-18,2015-07-08,48280.87,Cured
+138,76,Female,Condition_5,38,Medication_4,2020-02-22,2020-03-31,71646.98,Improved
+139,78,Male,Condition_10,57,Medication_5,2020-10-08,2020-12-04,35585.25,Cured
+140,77,Other,Condition_5,42,Medication_4,2016-03-02,2016-04-13,26517.86,Cured
+141,56,Female,Condition_2,7,Medication_2,2017-07-15,2017-07-22,59790.96,Not Improved
+142,87,Female,Condition_10,48,Medication_2,2021-11-04,2021-12-22,37444.5,Deceased
+143,70,Female,Condition_1,45,Medication_3,2018-08-15,2018-09-29,12190.61,Improved
+144,64,Male,Condition_6,35,Medication_3,2015-07-09,2015-08-13,41358.07,Improved
+145,33,Female,Condition_2,43,Medication_2,2015-01-26,2015-03-10,42239.05,Not Improved
+146,49,Male,Condition_10,14,Medication_1,2018-10-07,2018-10-21,13354.16,Improved
+147,60,Male,Condition_10,1,Medication_3,2017-03-18,2017-03-19,10418.66,Not Improved
+148,40,Male,Condition_1,9,Medication_1,2020-04-19,2020-04-28,16281.19,Not Improved
+149,20,Male,Condition_5,4,Medication_2,2021-09-04,2021-09-08,11096.69,Cured
+150,78,Female,Condition_6,33,Medication_5,2016-08-17,2016-09-19,6182.66,Improved
+151,23,Other,Condition_9,20,Medication_4,2015-01-16,2015-02-05,32372.38,Deceased
+152,72,Other,Condition_2,32,Medication_4,2016-02-11,2016-03-14,25143.49,Improved
+153,26,Male,Condition_5,40,Medication_5,2020-07-20,2020-08-29,15425.8,Not Improved
+154,76,Other,Condition_10,28,Medication_1,2016-11-21,2016-12-19,80755.23,Improved
+155,73,Female,Condition_4,27,Medication_3,2022-07-14,2022-08-10,3309.61,Cured
+156,58,Female,Condition_6,43,Medication_3,2020-03-22,2020-05-04,75727.44,Deceased
+157,26,Male,Condition_2,6,Medication_4,2016-12-24,2016-12-30,52055.77,Not Improved
+158,34,Other,Condition_1,38,Medication_5,2020-11-04,2020-12-12,63287.01,Deceased
+159,63,Other,Condition_7,56,Medication_1,2019-10-10,2019-12-05,39190.63,Not Improved
+160,31,Other,Condition_9,14,Medication_2,2022-04-28,2022-05-12,34272.0,Cured
+161,62,Other,Condition_6,8,Medication_3,2018-07-28,2018-08-05,42254.88,Cured
+162,52,Male,Condition_3,18,Medication_3,2020-06-01,2020-06-19,43330.16,Improved
+163,36,Other,Condition_7,5,Medication_2,2015-02-24,2015-03-01,94177.86,Improved
+164,66,Female,Condition_8,22,Medication_2,2020-05-24,2020-06-15,71231.42,Not Improved
+165,90,Other,Condition_2,57,Medication_1,2017-03-25,2017-05-21,45198.13,Cured
+166,28,Female,Condition_8,43,Medication_4,2022-10-15,2022-11-27,70391.98,Deceased
+167,52,Male,Condition_9,8,Medication_3,2021-02-10,2021-02-18,81207.47,Deceased
+168,85,Other,Condition_5,3,Medication_2,2021-10-02,2021-10-05,47157.53,Cured
+169,44,Female,Condition_4,50,Medication_2,2019-05-11,2019-06-30,16896.7,Cured
+170,18,Female,Condition_7,12,Medication_2,2021-09-23,2021-10-05,87276.08,Improved
+171,82,Other,Condition_6,5,Medication_4,2015-07-01,2015-07-06,98075.34,Deceased
+172,27,Female,Condition_10,28,Medication_5,2021-12-21,2022-01-18,31855.61,Deceased
+173,55,Male,Condition_7,2,Medication_3,2017-10-15,2017-10-17,15847.5,Not Improved
+174,29,Female,Condition_2,16,Medication_4,2021-09-03,2021-09-19,28112.05,Deceased
+175,57,Other,Condition_6,15,Medication_3,2017-02-17,2017-03-04,57748.27,Cured
+176,85,Other,Condition_4,58,Medication_3,2020-12-27,2021-02-23,2450.51,Improved
+177,48,Male,Condition_3,17,Medication_2,2017-10-05,2017-10-22,57564.59,Cured
+178,40,Other,Condition_8,30,Medication_5,2022-11-19,2022-12-19,76134.23,Not Improved
+179,58,Male,Condition_8,5,Medication_4,2022-11-10,2022-11-15,33442.06,Not Improved
+180,25,Female,Condition_9,5,Medication_3,2022-08-02,2022-08-07,71213.32,Cured
+181,65,Female,Condition_2,42,Medication_1,2021-08-19,2021-09-30,16952.35,Cured
+182,75,Other,Condition_4,21,Medication_5,2022-09-05,2022-09-26,39021.73,Cured
+183,75,Male,Condition_6,46,Medication_1,2017-01-08,2017-02-23,51361.43,Deceased
+184,74,Other,Condition_9,40,Medication_2,2020-06-10,2020-07-20,18252.79,Deceased
+185,70,Female,Condition_10,4,Medication_3,2016-06-04,2016-06-08,41651.26,Deceased
+186,54,Female,Condition_10,56,Medication_2,2020-02-19,2020-04-15,49990.47,Improved
+187,62,Female,Condition_7,9,Medication_5,2016-05-18,2016-05-27,30589.24,Deceased
+188,60,Male,Condition_9,6,Medication_4,2020-01-12,2020-01-18,52478.7,Not Improved
+189,41,Male,Condition_6,50,Medication_4,2018-04-05,2018-05-25,29048.56,Improved
+190,27,Female,Condition_2,33,Medication_5,2015-11-11,2015-12-14,56867.29,Improved
+191,66,Male,Condition_3,12,Medication_5,2017-12-15,2017-12-27,53324.55,Cured
+192,70,Female,Condition_4,29,Medication_5,2019-12-26,2020-01-24,41079.78,Deceased
+193,47,Other,Condition_4,20,Medication_4,2018-06-22,2018-07-12,35293.23,Deceased
+194,77,Female,Condition_7,33,Medication_5,2021-03-27,2021-04-29,95636.99,Improved
+195,35,Female,Condition_1,42,Medication_4,2020-09-04,2020-10-16,23385.0,Cured
+196,54,Male,Condition_3,18,Medication_4,2017-07-03,2017-07-21,93632.91,Improved
+197,75,Female,Condition_1,27,Medication_1,2021-09-12,2021-10-09,27990.01,Improved
+198,67,Male,Condition_6,15,Medication_1,2020-02-27,2020-03-13,17081.91,Not Improved
+199,36,Male,Condition_1,19,Medication_4,2017-12-16,2018-01-04,62526.26,Deceased
+200,18,Male,Condition_1,17,Medication_2,2017-09-24,2017-10-11,69447.63,Deceased
+201,32,Female,Condition_4,20,Medication_1,2015-04-14,2015-05-04,75709.26,Deceased
+202,26,Male,Condition_8,39,Medication_5,2015-11-17,2015-12-26,44275.83,Improved
+203,36,Female,Condition_7,1,Medication_5,2020-04-19,2020-04-20,82398.39,Deceased
+204,41,Other,Condition_2,34,Medication_3,2016-09-18,2016-10-22,62001.67,Cured
+205,67,Female,Condition_1,41,Medication_4,2020-05-24,2020-07-04,91523.37,Cured
+206,63,Male,Condition_6,16,Medication_1,2020-03-02,2020-03-18,91614.33,Not Improved
+207,87,Female,Condition_3,54,Medication_4,2022-11-06,2022-12-30,46231.31,Improved
+208,26,Other,Condition_8,3,Medication_3,2018-01-26,2018-01-29,56176.9,Improved
+209,23,Female,Condition_5,33,Medication_4,2022-05-02,2022-06-04,80549.54,Improved
+210,54,Female,Condition_1,56,Medication_3,2019-02-26,2019-04-23,22641.59,Not Improved
+211,73,Female,Condition_8,58,Medication_4,2020-03-16,2020-05-13,92137.02,Deceased
+212,65,Other,Condition_5,52,Medication_1,2021-02-14,2021-04-07,4121.12,Improved
+213,87,Female,Condition_6,7,Medication_1,2020-11-10,2020-11-17,79959.28,Not Improved
+214,75,Other,Condition_7,11,Medication_4,2020-08-02,2020-08-13,9286.42,Not Improved
+215,73,Female,Condition_1,5,Medication_4,2020-09-26,2020-10-01,92948.58,Improved
+216,21,Male,Condition_10,44,Medication_4,2015-03-03,2015-04-16,42098.83,Improved
+217,64,Female,Condition_7,37,Medication_1,2017-11-15,2017-12-22,24621.19,Not Improved
+218,65,Female,Condition_2,37,Medication_2,2020-07-11,2020-08-17,71820.57,Not Improved
+219,49,Male,Condition_1,48,Medication_2,2022-09-13,2022-10-31,49321.42,Cured
+220,51,Female,Condition_8,14,Medication_5,2019-12-16,2019-12-30,21224.55,Improved
+221,33,Male,Condition_2,29,Medication_2,2022-02-26,2022-03-27,25997.74,Not Improved
+222,62,Other,Condition_2,36,Medication_5,2019-05-28,2019-07-03,68737.05,Improved
+223,40,Female,Condition_9,15,Medication_1,2018-03-08,2018-03-23,41007.34,Deceased
+224,21,Female,Condition_9,37,Medication_3,2022-09-05,2022-10-12,36470.47,Cured
+225,26,Female,Condition_7,46,Medication_4,2021-07-27,2021-09-11,79944.43,Cured
+226,34,Female,Condition_2,29,Medication_4,2020-03-27,2020-04-25,16326.86,Improved
+227,34,Female,Condition_9,59,Medication_1,2016-09-05,2016-11-03,83398.24,Not Improved
+228,39,Male,Condition_6,60,Medication_2,2020-09-10,2020-11-09,30282.69,Cured
+229,50,Male,Condition_9,18,Medication_2,2019-10-18,2019-11-05,26068.54,Cured
+230,82,Other,Condition_3,38,Medication_5,2017-03-22,2017-04-29,63204.51,Not Improved
+231,90,Male,Condition_1,6,Medication_1,2019-11-07,2019-11-13,89046.11,Deceased
+232,21,Female,Condition_9,19,Medication_3,2022-04-26,2022-05-15,19421.92,Deceased
+233,56,Female,Condition_2,45,Medication_1,2017-08-14,2017-09-28,80309.6,Deceased
+234,77,Male,Condition_6,39,Medication_2,2020-12-11,2021-01-19,40601.78,Not Improved
+235,69,Male,Condition_6,33,Medication_5,2016-06-08,2016-07-11,57183.72,Deceased
+236,33,Female,Condition_8,16,Medication_2,2016-01-10,2016-01-26,30721.58,Deceased
+237,71,Male,Condition_3,53,Medication_3,2020-04-25,2020-06-17,53054.93,Improved
+238,81,Other,Condition_8,32,Medication_3,2022-01-03,2022-02-04,1185.18,Deceased
+239,82,Female,Condition_4,14,Medication_5,2020-01-02,2020-01-16,95693.62,Not Improved
+240,81,Other,Condition_8,19,Medication_5,2015-02-14,2015-03-05,25169.97,Improved
+241,51,Other,Condition_6,49,Medication_4,2020-01-13,2020-03-02,8908.26,Cured
+242,90,Other,Condition_4,24,Medication_5,2019-02-13,2019-03-09,6402.09,Deceased
+243,88,Female,Condition_10,44,Medication_5,2016-03-04,2016-04-17,80488.72,Deceased
+244,65,Female,Condition_9,24,Medication_2,2018-10-17,2018-11-10,93342.53,Deceased
+245,82,Male,Condition_1,3,Medication_2,2020-08-17,2020-08-20,23236.41,Deceased
+246,37,Other,Condition_9,9,Medication_3,2020-03-13,2020-03-22,1233.64,Not Improved
+247,61,Other,Condition_9,35,Medication_4,2019-08-27,2019-10-01,65342.0,Cured
+248,65,Female,Condition_2,27,Medication_5,2019-12-28,2020-01-24,8831.23,Cured
+249,78,Female,Condition_10,37,Medication_2,2015-10-16,2015-11-22,20213.45,Improved
+250,85,Other,Condition_10,50,Medication_4,2017-11-08,2017-12-28,80250.82,Cured
+251,32,Male,Condition_1,29,Medication_3,2021-03-14,2021-04-12,95597.78,Improved
+252,70,Other,Condition_10,59,Medication_4,2015-12-05,2016-02-02,41393.8,Improved
+253,89,Female,Condition_8,34,Medication_4,2020-03-15,2020-04-18,59148.78,Not Improved
+254,87,Female,Condition_5,40,Medication_4,2018-04-09,2018-05-19,23503.72,Not Improved
+255,46,Female,Condition_5,46,Medication_2,2022-06-16,2022-08-01,84337.85,Not Improved
+256,89,Other,Condition_5,19,Medication_1,2021-07-27,2021-08-15,39207.34,Not Improved
+257,36,Female,Condition_1,19,Medication_1,2020-08-21,2020-09-09,87410.55,Not Improved
+258,79,Male,Condition_4,53,Medication_5,2019-09-23,2019-11-15,65033.11,Not Improved
+259,35,Male,Condition_10,48,Medication_5,2018-04-02,2018-05-20,72705.21,Improved
+260,47,Male,Condition_2,27,Medication_3,2022-02-22,2022-03-21,5101.17,Improved
+261,18,Other,Condition_3,27,Medication_4,2022-11-07,2022-12-04,94875.24,Not Improved
+262,59,Female,Condition_1,59,Medication_1,2018-09-24,2018-11-22,89038.21,Cured
+263,40,Female,Condition_3,60,Medication_1,2021-08-06,2021-10-05,21538.3,Not Improved
+264,22,Male,Condition_5,37,Medication_5,2016-06-10,2016-07-17,40986.96,Deceased
+265,87,Other,Condition_8,57,Medication_2,2022-05-07,2022-07-03,68467.62,Cured
+266,60,Male,Condition_8,42,Medication_3,2017-01-24,2017-03-07,91850.68,Not Improved
+267,55,Other,Condition_4,12,Medication_5,2021-07-17,2021-07-29,60405.54,Not Improved
+268,29,Female,Condition_2,12,Medication_2,2022-06-08,2022-06-20,99206.15,Cured
+269,51,Female,Condition_4,29,Medication_3,2020-05-19,2020-06-17,72723.42,Cured
+270,51,Other,Condition_6,45,Medication_2,2015-11-04,2015-12-19,89283.15,Deceased
+271,57,Male,Condition_7,44,Medication_5,2019-12-04,2020-01-17,51389.22,Not Improved
+272,65,Other,Condition_4,15,Medication_2,2022-03-15,2022-03-30,93728.0,Not Improved
+273,71,Other,Condition_9,59,Medication_4,2018-04-22,2018-06-20,37868.98,Cured
+274,85,Female,Condition_9,46,Medication_3,2016-10-04,2016-11-19,89176.58,Cured
+275,88,Other,Condition_4,37,Medication_5,2017-03-11,2017-04-17,37223.5,Deceased
+276,32,Other,Condition_4,46,Medication_5,2022-02-17,2022-04-04,72968.2,Deceased
+277,25,Female,Condition_3,33,Medication_4,2022-10-02,2022-11-04,87463.34,Deceased
+278,57,Other,Condition_1,26,Medication_3,2015-12-07,2016-01-02,99565.09,Cured
+279,23,Female,Condition_6,45,Medication_1,2015-02-16,2015-04-02,9660.74,Cured
+280,54,Female,Condition_3,50,Medication_2,2021-06-13,2021-08-02,27983.26,Deceased
+281,66,Female,Condition_2,44,Medication_5,2017-11-28,2018-01-11,5443.57,Not Improved
+282,33,Male,Condition_9,26,Medication_5,2017-12-08,2018-01-03,48797.63,Cured
+283,20,Female,Condition_8,44,Medication_5,2021-09-13,2021-10-27,67239.89,Improved
+284,49,Female,Condition_6,10,Medication_3,2018-12-25,2019-01-04,61620.07,Cured
+285,22,Other,Condition_7,40,Medication_1,2018-04-03,2018-05-13,67547.17,Cured
+286,22,Female,Condition_10,44,Medication_1,2018-12-02,2019-01-15,34635.15,Deceased
+287,74,Male,Condition_9,14,Medication_1,2017-09-10,2017-09-24,49530.83,Improved
+288,58,Other,Condition_10,50,Medication_3,2018-05-05,2018-06-24,84901.79,Improved
+289,70,Female,Condition_5,4,Medication_5,2017-11-22,2017-11-26,11572.53,Deceased
+290,89,Female,Condition_1,23,Medication_4,2020-12-14,2021-01-06,68208.0,Deceased
+291,37,Female,Condition_7,12,Medication_5,2022-04-28,2022-05-10,56571.07,Improved
+292,56,Other,Condition_3,52,Medication_4,2015-09-14,2015-11-05,89563.14,Deceased
+293,89,Other,Condition_3,25,Medication_2,2019-04-11,2019-05-06,81438.88,Cured
+294,75,Female,Condition_2,35,Medication_2,2015-05-13,2015-06-17,54761.33,Cured
+295,27,Male,Condition_10,47,Medication_5,2018-08-07,2018-09-23,36313.7,Not Improved
+296,56,Male,Condition_4,60,Medication_2,2016-12-25,2017-02-23,77223.53,Deceased
+297,49,Other,Condition_10,46,Medication_2,2021-04-18,2021-06-03,68801.53,Not Improved
+298,54,Female,Condition_8,35,Medication_3,2019-05-12,2019-06-16,76734.96,Deceased
+299,77,Male,Condition_8,49,Medication_3,2018-06-11,2018-07-30,61089.45,Deceased
+300,23,Other,Condition_4,48,Medication_2,2015-05-18,2015-07-05,62108.86,Deceased
+301,55,Male,Condition_4,22,Medication_2,2021-10-27,2021-11-18,33498.95,Improved
+302,81,Other,Condition_6,17,Medication_4,2022-08-06,2022-08-23,44749.6,Not Improved
+303,39,Male,Condition_9,32,Medication_2,2015-09-02,2015-10-04,83589.3,Cured
+304,24,Male,Condition_7,9,Medication_2,2016-12-05,2016-12-14,61097.8,Cured
+305,45,Other,Condition_8,24,Medication_1,2022-11-16,2022-12-10,88993.14,Cured
+306,18,Other,Condition_9,27,Medication_1,2015-09-24,2015-10-21,37983.35,Not Improved
+307,86,Female,Condition_1,33,Medication_4,2017-02-04,2017-03-09,39813.26,Improved
+308,48,Male,Condition_10,34,Medication_3,2020-05-26,2020-06-29,66154.51,Deceased
+309,28,Female,Condition_7,30,Medication_5,2018-12-08,2019-01-07,76267.2,Not Improved
+310,28,Other,Condition_1,6,Medication_4,2021-07-18,2021-07-24,1474.79,Deceased
+311,25,Other,Condition_1,45,Medication_2,2016-08-28,2016-10-12,24818.47,Deceased
+312,60,Other,Condition_2,58,Medication_5,2015-04-07,2015-06-04,36974.36,Deceased
+313,52,Male,Condition_2,44,Medication_3,2015-03-28,2015-05-11,66291.49,Not Improved
+314,20,Male,Condition_10,10,Medication_4,2016-05-06,2016-05-16,12886.18,Improved
+315,90,Female,Condition_9,22,Medication_4,2017-12-24,2018-01-15,94506.4,Cured
+316,82,Other,Condition_6,4,Medication_1,2021-04-27,2021-05-01,52977.41,Cured
+317,61,Other,Condition_10,39,Medication_4,2020-01-21,2020-02-29,58859.38,Not Improved
+318,75,Female,Condition_4,23,Medication_5,2021-07-06,2021-07-29,79091.27,Deceased
+319,28,Other,Condition_5,52,Medication_2,2016-02-09,2016-04-01,88081.88,Improved
+320,66,Other,Condition_3,48,Medication_4,2020-06-04,2020-07-22,10625.58,Cured
+321,18,Female,Condition_8,24,Medication_3,2016-03-03,2016-03-27,75544.12,Improved
+322,73,Female,Condition_9,36,Medication_5,2021-02-01,2021-03-09,77697.62,Cured
+323,63,Other,Condition_2,39,Medication_5,2020-07-01,2020-08-09,69983.9,Not Improved
+324,70,Female,Condition_2,47,Medication_5,2018-10-17,2018-12-03,22349.63,Improved
+325,66,Male,Condition_3,18,Medication_3,2019-08-05,2019-08-23,6598.86,Cured
+326,39,Female,Condition_5,27,Medication_3,2022-02-12,2022-03-11,25202.74,Not Improved
+327,49,Other,Condition_8,39,Medication_5,2018-08-04,2018-09-12,29226.43,Improved
+328,56,Male,Condition_7,22,Medication_5,2021-06-15,2021-07-07,3039.96,Not Improved
+329,73,Other,Condition_10,9,Medication_3,2020-10-23,2020-11-01,23088.57,Improved
+330,79,Female,Condition_3,26,Medication_3,2019-12-23,2020-01-18,97715.62,Deceased
+331,49,Female,Condition_7,18,Medication_4,2020-02-19,2020-03-08,74805.24,Improved
+332,87,Male,Condition_9,2,Medication_4,2018-08-26,2018-08-28,92461.59,Not Improved
+333,26,Female,Condition_8,9,Medication_3,2018-05-22,2018-05-31,16280.02,Improved
+334,72,Female,Condition_2,29,Medication_5,2022-10-13,2022-11-11,40139.92,Deceased
+335,87,Male,Condition_6,45,Medication_5,2016-02-25,2016-04-10,33279.76,Improved
+336,63,Male,Condition_10,3,Medication_5,2021-06-26,2021-06-29,18848.39,Deceased
+337,31,Male,Condition_2,17,Medication_2,2018-08-12,2018-08-29,12890.24,Deceased
+338,77,Other,Condition_10,45,Medication_5,2017-06-01,2017-07-16,49619.26,Deceased
+339,31,Female,Condition_7,59,Medication_1,2016-12-05,2017-02-02,71235.57,Not Improved
+340,57,Female,Condition_8,51,Medication_2,2022-06-16,2022-08-06,55016.31,Cured
+341,74,Other,Condition_8,21,Medication_1,2019-01-26,2019-02-16,7183.31,Cured
+342,20,Female,Condition_2,44,Medication_2,2018-09-06,2018-10-20,81889.29,Improved
+343,60,Other,Condition_7,30,Medication_2,2021-11-06,2021-12-06,61807.47,Improved
+344,73,Female,Condition_1,48,Medication_5,2018-08-19,2018-10-06,45616.72,Deceased
+345,67,Male,Condition_4,14,Medication_3,2016-10-04,2016-10-18,75300.04,Improved
+346,64,Female,Condition_4,30,Medication_1,2019-11-28,2019-12-28,9918.95,Deceased
+347,85,Other,Condition_6,39,Medication_4,2021-10-04,2021-11-12,76618.57,Not Improved
+348,63,Female,Condition_10,12,Medication_3,2016-11-05,2016-11-17,42937.0,Not Improved
+349,33,Male,Condition_5,8,Medication_2,2020-12-05,2020-12-13,51472.91,Deceased
+350,71,Other,Condition_3,37,Medication_4,2021-03-16,2021-04-22,63960.34,Improved
+351,89,Male,Condition_8,19,Medication_2,2017-06-27,2017-07-16,81772.17,Deceased
+352,24,Female,Condition_1,32,Medication_2,2018-07-18,2018-08-19,10430.68,Deceased
+353,70,Other,Condition_8,27,Medication_4,2022-03-03,2022-03-30,93456.38,Cured
+354,46,Female,Condition_1,18,Medication_2,2019-03-25,2019-04-12,53924.64,Deceased
+355,90,Other,Condition_8,36,Medication_5,2016-10-04,2016-11-09,30341.93,Not Improved
+356,87,Female,Condition_9,53,Medication_1,2022-09-07,2022-10-30,16070.44,Deceased
+357,31,Other,Condition_4,20,Medication_1,2022-05-12,2022-06-01,5912.62,Cured
+358,74,Male,Condition_4,14,Medication_5,2020-12-20,2021-01-03,17231.35,Deceased
+359,39,Other,Condition_3,51,Medication_2,2018-01-19,2018-03-11,33674.12,Not Improved
+360,86,Female,Condition_10,35,Medication_2,2020-12-10,2021-01-14,36677.13,Not Improved
+361,52,Other,Condition_2,9,Medication_4,2015-05-28,2015-06-06,85229.81,Improved
+362,34,Male,Condition_3,46,Medication_3,2018-11-13,2018-12-29,62553.33,Deceased
+363,36,Other,Condition_5,41,Medication_4,2021-08-03,2021-09-13,65999.78,Cured
+364,69,Other,Condition_5,45,Medication_3,2022-08-11,2022-09-25,53985.83,Cured
+365,29,Other,Condition_8,41,Medication_3,2016-09-13,2016-10-24,35568.02,Improved
+366,72,Male,Condition_8,18,Medication_3,2019-06-18,2019-07-06,56961.78,Improved
+367,90,Female,Condition_6,58,Medication_1,2015-02-21,2015-04-20,69965.19,Deceased
+368,20,Male,Condition_3,29,Medication_4,2015-07-07,2015-08-05,62059.2,Improved
+369,56,Male,Condition_5,6,Medication_3,2019-02-12,2019-02-18,15604.96,Improved
+370,24,Female,Condition_5,47,Medication_2,2021-11-03,2021-12-20,79320.72,Cured
+371,18,Male,Condition_8,5,Medication_2,2018-09-22,2018-09-27,25860.82,Deceased
+372,19,Male,Condition_6,53,Medication_1,2021-12-05,2022-01-27,53275.91,Deceased
+373,27,Male,Condition_7,6,Medication_1,2016-06-12,2016-06-18,2790.48,Not Improved
+374,35,Female,Condition_3,42,Medication_2,2016-09-19,2016-10-31,58802.76,Cured
+375,39,Female,Condition_6,47,Medication_2,2017-07-20,2017-09-05,7119.13,Deceased
+376,45,Male,Condition_2,9,Medication_1,2021-06-14,2021-06-23,59288.91,Not Improved
+377,35,Male,Condition_5,42,Medication_1,2018-09-20,2018-11-01,3639.3,Not Improved
+378,21,Other,Condition_5,14,Medication_5,2018-12-13,2018-12-27,82926.22,Not Improved
+379,24,Male,Condition_8,25,Medication_1,2018-08-21,2018-09-15,99283.81,Cured
+380,85,Male,Condition_6,60,Medication_3,2017-07-28,2017-09-26,16297.22,Deceased
+381,64,Other,Condition_3,49,Medication_4,2016-01-19,2016-03-08,18914.9,Cured
+382,19,Female,Condition_4,3,Medication_1,2021-09-10,2021-09-13,30132.41,Deceased
+383,72,Other,Condition_7,6,Medication_5,2017-05-03,2017-05-09,88036.91,Not Improved
+384,28,Other,Condition_4,52,Medication_2,2020-07-19,2020-09-09,23267.31,Cured
+385,57,Other,Condition_7,47,Medication_2,2015-04-03,2015-05-20,39788.93,Deceased
+386,32,Female,Condition_10,39,Medication_1,2019-11-24,2020-01-02,97297.06,Improved
+387,33,Male,Condition_3,45,Medication_1,2017-08-12,2017-09-26,74029.63,Not Improved
+388,39,Female,Condition_3,48,Medication_3,2016-01-11,2016-02-28,82071.41,Deceased
+389,52,Other,Condition_2,17,Medication_5,2016-08-15,2016-09-01,27654.88,Not Improved
+390,25,Female,Condition_10,11,Medication_3,2017-05-25,2017-06-05,90252.44,Cured
+391,32,Male,Condition_9,1,Medication_1,2015-04-02,2015-04-03,84292.67,Deceased
+392,64,Female,Condition_3,12,Medication_1,2021-04-11,2021-04-23,17628.16,Improved
+393,71,Other,Condition_6,18,Medication_1,2020-02-17,2020-03-06,11874.39,Cured
+394,40,Male,Condition_9,3,Medication_4,2016-08-28,2016-08-31,92586.0,Not Improved
+395,57,Female,Condition_2,36,Medication_4,2015-06-07,2015-07-13,68163.78,Not Improved
+396,90,Female,Condition_10,16,Medication_4,2020-10-16,2020-11-01,73510.68,Improved
+397,87,Male,Condition_3,1,Medication_4,2015-04-18,2015-04-19,60463.37,Not Improved
+398,19,Female,Condition_1,49,Medication_4,2019-02-07,2019-03-28,12745.83,Improved
+399,71,Female,Condition_1,10,Medication_3,2016-01-08,2016-01-18,48884.87,Deceased
+400,65,Female,Condition_2,38,Medication_1,2017-11-27,2018-01-04,84792.8,Deceased
+401,27,Other,Condition_10,4,Medication_4,2017-04-10,2017-04-14,85164.21,Not Improved
+402,58,Female,Condition_6,21,Medication_4,2019-04-03,2019-04-24,80561.53,Improved
+403,35,Other,Condition_2,10,Medication_1,2017-08-15,2017-08-25,81525.45,Not Improved
+404,70,Male,Condition_9,23,Medication_2,2022-05-15,2022-06-07,17950.9,Not Improved
+405,33,Male,Condition_3,52,Medication_3,2015-04-27,2015-06-18,17313.07,Not Improved
+406,36,Male,Condition_4,23,Medication_4,2015-11-10,2015-12-03,33496.81,Not Improved
+407,40,Male,Condition_7,55,Medication_4,2018-02-15,2018-04-11,43516.43,Cured
+408,35,Male,Condition_1,4,Medication_2,2017-04-27,2017-05-01,30857.65,Deceased
+409,65,Other,Condition_2,38,Medication_5,2019-02-01,2019-03-11,50914.45,Cured
+410,43,Other,Condition_8,52,Medication_2,2016-06-04,2016-07-26,62701.78,Cured
+411,77,Male,Condition_3,60,Medication_5,2021-12-13,2022-02-11,52735.78,Deceased
+412,21,Female,Condition_7,12,Medication_3,2018-03-09,2018-03-21,76159.69,Not Improved
+413,75,Male,Condition_1,40,Medication_5,2018-11-10,2018-12-20,85420.45,Deceased
+414,70,Other,Condition_8,4,Medication_1,2019-07-05,2019-07-09,50739.35,Deceased
+415,43,Other,Condition_9,16,Medication_5,2015-07-26,2015-08-11,81315.89,Not Improved
+416,79,Other,Condition_8,23,Medication_5,2020-07-09,2020-08-01,92753.47,Improved
+417,21,Female,Condition_10,15,Medication_1,2019-01-26,2019-02-10,94816.01,Deceased
+418,85,Female,Condition_10,15,Medication_2,2016-04-22,2016-05-07,70486.75,Improved
+419,52,Other,Condition_1,49,Medication_2,2021-06-27,2021-08-15,64205.71,Improved
+420,40,Male,Condition_10,21,Medication_3,2015-12-23,2016-01-13,52386.37,Not Improved
+421,90,Other,Condition_3,37,Medication_2,2022-09-10,2022-10-17,61480.85,Improved
+422,80,Male,Condition_2,4,Medication_2,2018-01-17,2018-01-21,66736.14,Deceased
+423,18,Female,Condition_10,13,Medication_2,2020-12-06,2020-12-19,45545.8,Not Improved
+424,25,Male,Condition_3,38,Medication_2,2016-09-28,2016-11-05,38088.55,Not Improved
+425,27,Female,Condition_7,38,Medication_1,2020-05-11,2020-06-18,90119.33,Improved
+426,38,Other,Condition_7,51,Medication_4,2020-03-23,2020-05-13,8809.08,Not Improved
+427,46,Other,Condition_10,53,Medication_2,2021-05-24,2021-07-16,3223.15,Not Improved
+428,34,Male,Condition_1,45,Medication_5,2021-10-02,2021-11-16,12388.05,Improved
+429,58,Other,Condition_4,41,Medication_5,2016-08-05,2016-09-15,18606.77,Not Improved
+430,27,Male,Condition_6,21,Medication_2,2016-12-22,2017-01-12,26641.79,Not Improved
+431,75,Male,Condition_5,14,Medication_2,2016-06-09,2016-06-23,63518.42,Cured
+432,18,Male,Condition_7,29,Medication_4,2017-07-16,2017-08-14,31078.15,Deceased
+433,62,Other,Condition_7,7,Medication_4,2018-03-15,2018-03-22,86468.57,Cured
+434,22,Female,Condition_1,21,Medication_3,2016-02-11,2016-03-03,28743.97,Improved
+435,66,Male,Condition_2,36,Medication_1,2020-10-20,2020-11-25,39245.26,Deceased
+436,21,Female,Condition_3,39,Medication_4,2017-01-04,2017-02-12,56797.96,Not Improved
+437,44,Male,Condition_7,45,Medication_5,2019-11-10,2019-12-25,59873.06,Not Improved
+438,48,Male,Condition_1,26,Medication_5,2022-03-02,2022-03-28,91261.77,Not Improved
+439,18,Female,Condition_2,19,Medication_5,2022-04-04,2022-04-23,40057.93,Cured
+440,44,Male,Condition_5,6,Medication_4,2016-05-26,2016-06-01,63883.04,Deceased
+441,78,Female,Condition_5,6,Medication_5,2021-03-12,2021-03-18,7221.92,Deceased
+442,65,Male,Condition_8,3,Medication_3,2022-08-09,2022-08-12,35521.3,Improved
+443,52,Other,Condition_1,10,Medication_1,2016-11-12,2016-11-22,19945.57,Deceased
+444,47,Other,Condition_1,54,Medication_4,2021-09-22,2021-11-15,62688.91,Deceased
+445,48,Female,Condition_5,6,Medication_4,2015-09-19,2015-09-25,96788.66,Improved
+446,33,Female,Condition_3,11,Medication_2,2018-03-02,2018-03-13,59100.91,Deceased
+447,28,Other,Condition_7,13,Medication_2,2019-06-24,2019-07-07,68486.33,Cured
+448,29,Female,Condition_9,26,Medication_5,2020-05-17,2020-06-12,62416.25,Deceased
+449,19,Other,Condition_10,38,Medication_5,2021-02-14,2021-03-24,93203.85,Improved
+450,36,Other,Condition_10,38,Medication_1,2016-10-25,2016-12-02,98077.8,Cured
+451,54,Other,Condition_6,57,Medication_4,2019-07-21,2019-09-16,75996.07,Deceased
+452,78,Male,Condition_3,18,Medication_4,2017-10-20,2017-11-07,58155.84,Deceased
+453,22,Female,Condition_6,45,Medication_2,2015-12-16,2016-01-30,43799.89,Not Improved
+454,65,Male,Condition_6,53,Medication_3,2019-05-27,2019-07-19,7476.74,Deceased
+455,30,Male,Condition_3,20,Medication_4,2020-05-24,2020-06-13,50022.97,Deceased
+456,29,Male,Condition_8,14,Medication_4,2022-09-28,2022-10-12,70366.3,Not Improved
+457,25,Other,Condition_3,5,Medication_3,2021-03-25,2021-03-30,57103.84,Cured
+458,40,Male,Condition_4,54,Medication_1,2018-01-15,2018-03-10,54496.8,Cured
+459,64,Other,Condition_4,18,Medication_3,2022-09-13,2022-10-01,56204.16,Cured
+460,21,Male,Condition_6,32,Medication_5,2022-03-28,2022-04-29,65849.66,Deceased
+461,88,Female,Condition_6,11,Medication_3,2016-05-01,2016-05-12,88804.79,Deceased
+462,24,Male,Condition_10,50,Medication_2,2018-11-08,2018-12-28,60292.3,Improved
+463,52,Other,Condition_7,33,Medication_1,2015-08-05,2015-09-07,30691.52,Improved
+464,19,Male,Condition_5,39,Medication_3,2019-07-13,2019-08-21,1237.61,Not Improved
+465,76,Female,Condition_4,30,Medication_3,2021-10-04,2021-11-03,18072.97,Cured
+466,83,Other,Condition_6,36,Medication_5,2019-05-22,2019-06-27,50005.32,Cured
+467,79,Male,Condition_6,18,Medication_3,2019-05-21,2019-06-08,82957.02,Not Improved
+468,42,Male,Condition_9,49,Medication_2,2015-10-13,2015-12-01,1014.51,Not Improved
+469,35,Other,Condition_1,42,Medication_4,2019-05-14,2019-06-25,13037.75,Deceased
+470,67,Other,Condition_1,38,Medication_5,2018-06-24,2018-08-01,52230.38,Improved
+471,86,Other,Condition_8,59,Medication_3,2019-03-27,2019-05-25,41536.88,Improved
+472,55,Male,Condition_8,9,Medication_3,2017-11-11,2017-11-20,9618.54,Cured
+473,46,Female,Condition_4,48,Medication_3,2021-06-12,2021-07-30,8652.16,Not Improved
+474,55,Female,Condition_2,31,Medication_1,2016-08-07,2016-09-07,68612.14,Cured
+475,66,Other,Condition_5,27,Medication_1,2017-03-07,2017-04-03,68134.68,Not Improved
+476,70,Other,Condition_8,10,Medication_3,2017-02-16,2017-02-26,54987.56,Not Improved
+477,40,Female,Condition_1,1,Medication_4,2019-04-25,2019-04-26,26026.93,Improved
+478,38,Female,Condition_2,9,Medication_5,2021-11-14,2021-11-23,54461.2,Deceased
+479,72,Female,Condition_7,1,Medication_1,2018-12-12,2018-12-13,88189.21,Cured
+480,59,Other,Condition_4,2,Medication_1,2018-04-23,2018-04-25,73901.24,Not Improved
+481,57,Male,Condition_2,25,Medication_5,2019-03-03,2019-03-28,33902.24,Cured
+482,56,Female,Condition_8,47,Medication_5,2020-07-22,2020-09-07,36174.35,Improved
+483,61,Female,Condition_6,49,Medication_2,2017-07-01,2017-08-19,36210.25,Improved
+484,46,Other,Condition_3,14,Medication_1,2017-02-12,2017-02-26,37216.01,Cured
+485,66,Other,Condition_5,50,Medication_5,2015-10-02,2015-11-21,78583.67,Cured
+486,20,Male,Condition_2,27,Medication_4,2021-02-18,2021-03-17,95792.88,Not Improved
+487,78,Other,Condition_3,14,Medication_1,2019-07-22,2019-08-05,53768.64,Cured
+488,84,Female,Condition_10,39,Medication_2,2021-02-17,2021-03-28,60366.5,Cured
+489,54,Male,Condition_2,32,Medication_2,2018-05-27,2018-06-28,34696.63,Improved
+490,63,Other,Condition_7,19,Medication_2,2015-09-16,2015-10-05,62933.42,Improved
+491,79,Female,Condition_4,1,Medication_1,2016-02-27,2016-02-28,68666.33,Deceased
+492,37,Male,Condition_9,5,Medication_1,2019-11-08,2019-11-13,7851.21,Deceased
+493,55,Female,Condition_8,4,Medication_1,2017-01-28,2017-02-01,77985.07,Not Improved
+494,64,Other,Condition_6,28,Medication_1,2016-01-01,2016-01-29,88145.84,Improved
+495,39,Female,Condition_6,58,Medication_4,2019-12-03,2020-01-30,53425.54,Not Improved
+496,61,Male,Condition_2,26,Medication_4,2022-05-27,2022-06-22,46373.45,Deceased
+497,79,Female,Condition_3,8,Medication_2,2015-03-04,2015-03-12,84047.46,Deceased
+498,79,Other,Condition_8,12,Medication_5,2021-06-20,2021-07-02,45468.05,Cured
+499,34,Female,Condition_8,8,Medication_4,2022-01-03,2022-01-11,27107.26,Not Improved
+500,58,Male,Condition_9,50,Medication_5,2018-11-28,2019-01-17,11812.4,Not Improved
+501,84,Other,Condition_10,7,Medication_4,2018-08-12,2018-08-19,62789.95,Deceased
+502,37,Other,Condition_10,4,Medication_1,2017-09-28,2017-10-02,68742.89,Deceased
+503,81,Male,Condition_2,49,Medication_4,2020-04-11,2020-05-30,87137.28,Not Improved
+504,24,Other,Condition_4,36,Medication_4,2021-04-03,2021-05-09,23411.19,Deceased
+505,74,Other,Condition_8,6,Medication_4,2022-06-04,2022-06-10,58648.15,Deceased
+506,20,Male,Condition_7,27,Medication_1,2015-02-26,2015-03-25,84068.4,Not Improved
+507,83,Other,Condition_4,42,Medication_4,2020-06-27,2020-08-08,27869.52,Cured
+508,46,Female,Condition_6,36,Medication_5,2022-12-22,2023-01-27,54276.41,Not Improved
+509,75,Male,Condition_2,49,Medication_2,2015-06-12,2015-07-31,45621.29,Not Improved
+510,88,Other,Condition_6,45,Medication_1,2015-03-16,2015-04-30,24964.31,Improved
+511,70,Male,Condition_5,40,Medication_2,2018-02-28,2018-04-09,13605.24,Deceased
+512,45,Female,Condition_4,46,Medication_3,2016-07-02,2016-08-17,7813.78,Cured
+513,75,Female,Condition_10,33,Medication_2,2022-01-17,2022-02-19,55991.48,Cured
+514,88,Female,Condition_10,31,Medication_5,2017-12-19,2018-01-19,88959.69,Improved
+515,34,Male,Condition_7,43,Medication_5,2020-09-13,2020-10-26,42335.54,Deceased
+516,49,Female,Condition_7,22,Medication_3,2022-03-05,2022-03-27,48066.81,Deceased
+517,83,Female,Condition_9,56,Medication_3,2018-04-07,2018-06-02,3917.26,Not Improved
+518,62,Other,Condition_3,46,Medication_2,2020-12-04,2021-01-19,44686.07,Not Improved
+519,89,Female,Condition_10,37,Medication_4,2019-07-26,2019-09-01,84763.17,Cured
+520,84,Male,Condition_1,25,Medication_2,2015-11-02,2015-11-27,96086.92,Improved
+521,52,Male,Condition_5,44,Medication_3,2017-01-23,2017-03-08,96531.35,Not Improved
+522,44,Other,Condition_1,23,Medication_4,2016-10-28,2016-11-20,62001.57,Improved
+523,89,Female,Condition_4,33,Medication_3,2015-07-13,2015-08-15,9875.23,Deceased
+524,58,Other,Condition_1,1,Medication_3,2018-10-28,2018-10-29,16648.47,Deceased
+525,46,Other,Condition_6,49,Medication_5,2018-12-07,2019-01-25,47891.24,Not Improved
+526,75,Male,Condition_2,12,Medication_2,2016-07-02,2016-07-14,43463.0,Deceased
+527,53,Other,Condition_5,9,Medication_2,2019-01-11,2019-01-20,2684.77,Deceased
+528,37,Male,Condition_3,60,Medication_3,2015-11-20,2016-01-19,26099.19,Not Improved
+529,80,Other,Condition_9,23,Medication_1,2020-09-08,2020-10-01,76924.53,Improved
+530,84,Male,Condition_9,11,Medication_4,2021-02-12,2021-02-23,22907.41,Improved
+531,45,Other,Condition_6,22,Medication_3,2019-04-25,2019-05-17,48815.39,Deceased
+532,89,Other,Condition_1,8,Medication_3,2022-04-21,2022-04-29,54717.94,Improved
+533,23,Other,Condition_6,25,Medication_1,2021-05-18,2021-06-12,53384.05,Not Improved
+534,21,Other,Condition_6,33,Medication_5,2022-08-02,2022-09-04,68447.65,Not Improved
+535,42,Female,Condition_9,6,Medication_1,2017-09-18,2017-09-24,76196.33,Cured
+536,26,Male,Condition_4,56,Medication_4,2016-04-18,2016-06-13,1659.48,Deceased
+537,27,Other,Condition_3,2,Medication_4,2020-01-03,2020-01-05,69812.32,Cured
+538,24,Male,Condition_5,36,Medication_1,2018-05-14,2018-06-19,67201.2,Deceased
+539,75,Other,Condition_7,28,Medication_3,2015-07-22,2015-08-19,81294.12,Cured
+540,86,Male,Condition_10,5,Medication_5,2015-12-28,2016-01-02,85629.93,Cured
+541,63,Other,Condition_2,19,Medication_3,2016-05-25,2016-06-13,30918.91,Deceased
+542,66,Female,Condition_1,31,Medication_2,2018-03-24,2018-04-24,43831.25,Deceased
+543,87,Female,Condition_3,20,Medication_3,2015-09-28,2015-10-18,88392.06,Improved
+544,33,Male,Condition_1,37,Medication_5,2021-09-18,2021-10-25,65244.81,Cured
+545,57,Male,Condition_6,14,Medication_4,2017-03-06,2017-03-20,70757.5,Improved
+546,50,Male,Condition_2,12,Medication_5,2015-09-15,2015-09-27,80243.35,Cured
+547,55,Other,Condition_2,17,Medication_1,2018-12-19,2019-01-05,91077.36,Deceased
+548,60,Female,Condition_3,43,Medication_2,2016-05-20,2016-07-02,50613.16,Cured
+549,42,Female,Condition_8,29,Medication_3,2019-12-19,2020-01-17,49139.73,Improved
+550,90,Other,Condition_6,52,Medication_3,2021-03-01,2021-04-22,31832.42,Not Improved
+551,49,Male,Condition_7,18,Medication_3,2017-11-24,2017-12-12,16197.39,Not Improved
+552,79,Female,Condition_8,23,Medication_3,2022-09-04,2022-09-27,91801.73,Improved
+553,28,Female,Condition_3,58,Medication_5,2018-05-24,2018-07-21,22380.31,Cured
+554,27,Male,Condition_9,41,Medication_1,2021-10-07,2021-11-17,87020.83,Cured
+555,88,Female,Condition_9,58,Medication_5,2022-11-25,2023-01-22,28811.32,Improved
+556,64,Female,Condition_4,58,Medication_5,2019-03-15,2019-05-12,91922.56,Cured
+557,68,Female,Condition_9,1,Medication_2,2017-09-05,2017-09-06,16082.76,Deceased
+558,38,Male,Condition_10,37,Medication_2,2022-06-02,2022-07-09,54406.03,Improved
+559,80,Male,Condition_2,17,Medication_3,2018-01-22,2018-02-08,41580.95,Improved
+560,84,Female,Condition_7,31,Medication_4,2015-01-21,2015-02-21,85453.65,Not Improved
+561,31,Other,Condition_9,41,Medication_3,2019-10-18,2019-11-28,77972.4,Improved
+562,66,Other,Condition_7,24,Medication_5,2016-09-09,2016-10-03,65232.37,Deceased
+563,46,Other,Condition_7,23,Medication_3,2022-08-20,2022-09-12,84595.24,Cured
+564,82,Male,Condition_8,11,Medication_2,2016-09-21,2016-10-02,24207.04,Not Improved
+565,45,Male,Condition_3,11,Medication_3,2016-11-08,2016-11-19,96614.44,Deceased
+566,60,Other,Condition_2,31,Medication_4,2022-04-19,2022-05-20,43450.1,Improved
+567,70,Male,Condition_4,3,Medication_2,2017-03-21,2017-03-24,82264.17,Cured
+568,36,Male,Condition_3,17,Medication_2,2021-10-19,2021-11-05,94309.78,Cured
+569,54,Male,Condition_4,29,Medication_5,2022-08-06,2022-09-04,97898.32,Improved
+570,70,Other,Condition_3,51,Medication_5,2017-10-22,2017-12-12,50262.22,Not Improved
+571,39,Other,Condition_6,60,Medication_4,2016-04-13,2016-06-12,7297.77,Deceased
+572,34,Male,Condition_1,13,Medication_5,2021-03-20,2021-04-02,64444.03,Cured
+573,40,Female,Condition_10,39,Medication_1,2016-02-16,2016-03-26,16578.34,Improved
+574,87,Male,Condition_7,34,Medication_4,2020-01-23,2020-02-26,16470.84,Deceased
+575,47,Female,Condition_7,23,Medication_5,2016-07-05,2016-07-28,94993.54,Not Improved
+576,79,Male,Condition_2,19,Medication_5,2021-05-07,2021-05-26,7318.05,Cured
+577,18,Other,Condition_9,8,Medication_5,2015-07-21,2015-07-29,48705.16,Improved
+578,58,Female,Condition_6,7,Medication_2,2021-11-19,2021-11-26,68237.19,Not Improved
+579,51,Other,Condition_7,37,Medication_3,2019-11-13,2019-12-20,35508.1,Improved
+580,70,Other,Condition_9,31,Medication_2,2020-09-18,2020-10-19,56799.25,Deceased
+581,50,Female,Condition_10,23,Medication_4,2017-11-04,2017-11-27,68517.04,Improved
+582,75,Other,Condition_3,7,Medication_2,2021-06-26,2021-07-03,7363.87,Cured
+583,38,Female,Condition_1,52,Medication_1,2017-08-20,2017-10-11,34801.59,Deceased
+584,29,Male,Condition_5,15,Medication_3,2016-10-02,2016-10-17,95878.42,Deceased
+585,69,Other,Condition_9,19,Medication_5,2015-03-21,2015-04-09,8737.37,Deceased
+586,74,Male,Condition_4,55,Medication_5,2019-04-02,2019-05-27,50659.73,Improved
+587,39,Other,Condition_1,24,Medication_2,2015-03-03,2015-03-27,16266.53,Not Improved
+588,69,Female,Condition_7,26,Medication_5,2018-09-01,2018-09-27,34131.18,Cured
+589,29,Other,Condition_5,47,Medication_5,2020-06-27,2020-08-13,88794.63,Not Improved
+590,46,Other,Condition_4,30,Medication_4,2015-05-06,2015-06-05,28326.93,Deceased
+591,82,Male,Condition_9,5,Medication_5,2019-06-04,2019-06-09,9988.91,Not Improved
+592,86,Other,Condition_5,45,Medication_4,2021-10-16,2021-11-30,96148.94,Improved
+593,61,Female,Condition_8,58,Medication_5,2015-08-04,2015-10-01,68792.93,Not Improved
+594,26,Female,Condition_4,44,Medication_2,2020-07-12,2020-08-25,77547.43,Cured
+595,51,Male,Condition_5,6,Medication_4,2020-02-18,2020-02-24,38111.65,Improved
+596,78,Female,Condition_6,14,Medication_5,2019-03-24,2019-04-07,89579.18,Improved
+597,81,Other,Condition_4,16,Medication_2,2019-04-08,2019-04-24,41392.81,Improved
+598,49,Other,Condition_6,10,Medication_1,2016-02-22,2016-03-03,21789.23,Deceased
+599,18,Other,Condition_1,55,Medication_4,2020-10-11,2020-12-05,33917.51,Deceased
+600,53,Female,Condition_3,49,Medication_5,2019-07-08,2019-08-26,46795.53,Improved
+601,24,Other,Condition_7,31,Medication_5,2015-09-12,2015-10-13,87642.16,Deceased
+602,40,Female,Condition_2,45,Medication_5,2022-06-23,2022-08-07,75541.49,Cured
+603,19,Other,Condition_4,25,Medication_5,2016-06-12,2016-07-07,32891.95,Not Improved
+604,41,Other,Condition_5,16,Medication_3,2022-10-11,2022-10-27,13533.15,Not Improved
+605,41,Female,Condition_7,14,Medication_4,2020-06-28,2020-07-12,39793.3,Deceased
+606,53,Female,Condition_3,37,Medication_2,2018-02-24,2018-04-02,84242.85,Not Improved
+607,48,Other,Condition_7,55,Medication_4,2018-03-26,2018-05-20,3057.81,Improved
+608,78,Male,Condition_3,27,Medication_4,2017-11-17,2017-12-14,35214.95,Not Improved
+609,80,Female,Condition_5,36,Medication_5,2015-07-04,2015-08-09,65619.37,Improved
+610,25,Male,Condition_5,31,Medication_1,2022-12-11,2023-01-11,34900.85,Not Improved
+611,64,Female,Condition_9,36,Medication_3,2020-01-14,2020-02-19,45431.06,Cured
+612,62,Other,Condition_10,13,Medication_5,2017-05-12,2017-05-25,55479.31,Not Improved
+613,83,Female,Condition_8,57,Medication_1,2021-10-10,2021-12-06,44496.8,Deceased
+614,36,Male,Condition_6,27,Medication_5,2021-02-03,2021-03-02,70415.72,Improved
+615,61,Male,Condition_6,21,Medication_3,2019-10-21,2019-11-11,14691.3,Deceased
+616,52,Female,Condition_6,48,Medication_5,2022-07-06,2022-08-23,33562.42,Improved
+617,20,Male,Condition_4,43,Medication_3,2016-04-06,2016-05-19,8442.98,Deceased
+618,31,Male,Condition_2,60,Medication_4,2015-01-25,2015-03-26,57619.34,Deceased
+619,85,Male,Condition_2,17,Medication_5,2017-02-21,2017-03-10,43267.05,Deceased
+620,57,Male,Condition_4,48,Medication_3,2022-11-05,2022-12-23,97250.94,Improved
+621,85,Male,Condition_1,3,Medication_3,2020-08-15,2020-08-18,18853.72,Not Improved
+622,88,Female,Condition_3,45,Medication_5,2017-10-20,2017-12-04,25163.76,Deceased
+623,90,Female,Condition_9,41,Medication_5,2019-06-16,2019-07-27,12070.54,Improved
+624,29,Female,Condition_5,24,Medication_4,2019-03-10,2019-04-03,16373.23,Cured
+625,18,Other,Condition_3,23,Medication_3,2022-09-01,2022-09-24,59046.61,Deceased
+626,79,Female,Condition_1,50,Medication_4,2019-10-08,2019-11-27,19809.56,Cured
+627,88,Female,Condition_4,27,Medication_5,2021-07-08,2021-08-04,1405.4,Improved
+628,67,Female,Condition_4,17,Medication_1,2021-11-08,2021-11-25,67966.46,Not Improved
+629,54,Other,Condition_9,52,Medication_3,2021-04-28,2021-06-19,38940.13,Cured
+630,41,Male,Condition_5,8,Medication_4,2022-05-23,2022-05-31,46791.32,Deceased
+631,42,Female,Condition_1,10,Medication_1,2015-03-04,2015-03-14,98612.14,Not Improved
+632,52,Male,Condition_8,47,Medication_1,2018-02-05,2018-03-24,45396.56,Cured
+633,81,Male,Condition_6,27,Medication_3,2022-06-15,2022-07-12,18307.99,Cured
+634,60,Male,Condition_3,4,Medication_3,2021-02-18,2021-02-22,27399.12,Deceased
+635,41,Male,Condition_5,53,Medication_4,2015-02-25,2015-04-19,24597.56,Improved
+636,67,Female,Condition_4,48,Medication_1,2018-08-24,2018-10-11,82675.27,Cured
+637,84,Other,Condition_4,31,Medication_4,2019-06-06,2019-07-07,50847.7,Cured
+638,88,Other,Condition_2,17,Medication_4,2019-04-12,2019-04-29,43025.63,Cured
+639,45,Male,Condition_4,41,Medication_4,2020-01-06,2020-02-16,32167.57,Not Improved
+640,33,Female,Condition_4,1,Medication_1,2022-12-20,2022-12-21,77604.91,Improved
+641,65,Male,Condition_4,11,Medication_4,2016-11-20,2016-12-01,56033.97,Not Improved
+642,25,Male,Condition_6,42,Medication_2,2016-03-16,2016-04-27,1475.41,Improved
+643,58,Other,Condition_6,52,Medication_4,2018-01-23,2018-03-16,61134.86,Deceased
+644,63,Other,Condition_3,17,Medication_1,2022-12-15,2023-01-01,42088.56,Not Improved
+645,87,Other,Condition_8,13,Medication_5,2017-09-12,2017-09-25,64341.9,Not Improved
+646,77,Female,Condition_10,59,Medication_5,2017-02-17,2017-04-17,91848.67,Improved
+647,75,Female,Condition_5,35,Medication_3,2022-01-25,2022-03-01,19215.4,Deceased
+648,41,Male,Condition_10,55,Medication_3,2018-06-24,2018-08-18,58258.94,Cured
+649,86,Female,Condition_4,34,Medication_4,2017-10-10,2017-11-13,63017.07,Not Improved
+650,70,Other,Condition_6,8,Medication_1,2016-01-27,2016-02-04,6142.28,Improved
+651,40,Male,Condition_4,7,Medication_4,2018-02-02,2018-02-09,76076.13,Deceased
+652,80,Other,Condition_10,45,Medication_5,2019-01-12,2019-02-26,32387.42,Improved
+653,27,Male,Condition_4,42,Medication_4,2016-08-26,2016-10-07,90366.26,Cured
+654,64,Other,Condition_7,53,Medication_3,2015-10-09,2015-12-01,71696.97,Cured
+655,27,Female,Condition_2,14,Medication_5,2016-02-24,2016-03-09,68500.81,Improved
+656,86,Female,Condition_4,13,Medication_5,2018-10-21,2018-11-03,23339.04,Improved
+657,89,Other,Condition_9,27,Medication_1,2020-11-15,2020-12-12,27523.19,Deceased
+658,31,Male,Condition_3,36,Medication_4,2020-11-06,2020-12-12,55556.19,Deceased
+659,63,Female,Condition_9,21,Medication_3,2021-11-14,2021-12-05,92191.52,Not Improved
+660,48,Other,Condition_9,14,Medication_4,2019-06-15,2019-06-29,86869.79,Deceased
+661,68,Male,Condition_1,19,Medication_5,2015-09-05,2015-09-24,92468.36,Not Improved
+662,18,Female,Condition_4,14,Medication_3,2015-12-27,2016-01-10,17091.47,Not Improved
+663,88,Other,Condition_9,37,Medication_5,2017-02-02,2017-03-11,99333.01,Deceased
+664,63,Male,Condition_3,17,Medication_3,2018-04-09,2018-04-26,8205.96,Not Improved
+665,29,Other,Condition_7,37,Medication_2,2016-12-11,2017-01-17,23321.69,Deceased
+666,40,Female,Condition_10,53,Medication_1,2019-01-24,2019-03-18,38789.06,Deceased
+667,28,Male,Condition_6,23,Medication_4,2021-02-28,2021-03-23,16924.07,Improved
+668,19,Other,Condition_7,4,Medication_3,2015-06-18,2015-06-22,61007.48,Improved
+669,59,Other,Condition_4,10,Medication_1,2021-08-25,2021-09-04,92108.32,Cured
+670,46,Female,Condition_5,51,Medication_4,2017-03-11,2017-05-01,81163.73,Cured
+671,78,Other,Condition_1,36,Medication_4,2019-02-13,2019-03-21,60602.32,Deceased
+672,34,Male,Condition_8,36,Medication_2,2022-07-21,2022-08-26,66350.81,Improved
+673,89,Other,Condition_9,16,Medication_2,2016-05-25,2016-06-10,97492.44,Deceased
+674,59,Other,Condition_10,6,Medication_1,2021-07-12,2021-07-18,69692.87,Not Improved
+675,42,Female,Condition_6,39,Medication_1,2019-03-12,2019-04-20,24214.86,Deceased
+676,36,Female,Condition_1,60,Medication_2,2018-11-12,2019-01-11,3575.46,Improved
+677,28,Male,Condition_1,16,Medication_5,2017-05-01,2017-05-17,33436.33,Not Improved
+678,32,Female,Condition_8,31,Medication_1,2020-04-24,2020-05-25,8456.25,Improved
+679,44,Other,Condition_9,49,Medication_3,2022-10-24,2022-12-12,59398.7,Improved
+680,20,Female,Condition_10,58,Medication_5,2015-05-06,2015-07-03,20119.42,Cured
+681,54,Male,Condition_10,18,Medication_1,2022-11-01,2022-11-19,45230.24,Cured
+682,67,Other,Condition_5,43,Medication_3,2016-01-10,2016-02-22,42409.29,Deceased
+683,47,Female,Condition_9,46,Medication_1,2020-08-28,2020-10-13,78777.95,Cured
+684,41,Male,Condition_9,30,Medication_5,2015-01-08,2015-02-07,96123.48,Not Improved
+685,60,Female,Condition_7,48,Medication_2,2015-06-22,2015-08-09,89313.24,Not Improved
+686,63,Other,Condition_5,16,Medication_5,2019-01-21,2019-02-06,88714.49,Not Improved
+687,67,Male,Condition_9,18,Medication_2,2017-06-13,2017-07-01,23710.69,Improved
+688,29,Other,Condition_7,34,Medication_5,2018-07-08,2018-08-11,27192.6,Improved
+689,72,Female,Condition_10,22,Medication_4,2017-04-21,2017-05-13,1797.5,Improved
+690,87,Other,Condition_4,56,Medication_2,2019-12-23,2020-02-17,44408.38,Improved
+691,73,Male,Condition_10,59,Medication_2,2020-02-18,2020-04-17,55737.96,Cured
+692,41,Female,Condition_3,47,Medication_1,2020-07-14,2020-08-30,47293.01,Not Improved
+693,74,Other,Condition_5,10,Medication_2,2016-03-06,2016-03-16,60168.85,Cured
+694,52,Other,Condition_10,40,Medication_2,2018-04-22,2018-06-01,71818.46,Cured
+695,63,Male,Condition_8,9,Medication_5,2022-12-21,2022-12-30,40794.56,Not Improved
+696,41,Female,Condition_8,31,Medication_2,2017-04-08,2017-05-09,50845.27,Cured
+697,70,Male,Condition_5,27,Medication_2,2018-04-03,2018-04-30,26674.81,Improved
+698,74,Other,Condition_8,45,Medication_3,2022-04-14,2022-05-29,22660.49,Deceased
+699,23,Other,Condition_7,47,Medication_3,2021-10-24,2021-12-10,66778.9,Cured
+700,84,Male,Condition_8,30,Medication_1,2018-09-18,2018-10-18,46399.47,Deceased
+701,23,Other,Condition_7,34,Medication_1,2018-05-15,2018-06-18,77861.15,Deceased
+702,56,Female,Condition_8,11,Medication_4,2019-10-02,2019-10-13,31223.6,Improved
+703,77,Other,Condition_8,6,Medication_5,2016-03-25,2016-03-31,47695.79,Improved
+704,68,Female,Condition_6,29,Medication_1,2017-08-19,2017-09-17,51194.62,Improved
+705,76,Male,Condition_5,21,Medication_2,2016-02-04,2016-02-25,13219.05,Deceased
+706,64,Male,Condition_9,46,Medication_4,2017-07-18,2017-09-02,23346.21,Deceased
+707,23,Male,Condition_6,37,Medication_2,2017-03-06,2017-04-12,20930.32,Cured
+708,71,Female,Condition_5,47,Medication_4,2019-11-06,2019-12-23,23486.45,Cured
+709,34,Male,Condition_1,40,Medication_3,2015-08-16,2015-09-25,85637.1,Deceased
+710,87,Male,Condition_10,57,Medication_4,2018-04-19,2018-06-15,43706.03,Deceased
+711,76,Female,Condition_8,6,Medication_5,2015-04-18,2015-04-24,86811.27,Not Improved
+712,89,Male,Condition_1,12,Medication_2,2015-11-12,2015-11-24,11252.28,Cured
+713,36,Male,Condition_10,54,Medication_5,2019-06-03,2019-07-27,81047.6,Cured
+714,31,Female,Condition_3,11,Medication_3,2017-08-24,2017-09-04,73920.03,Not Improved
+715,22,Male,Condition_5,21,Medication_3,2021-02-25,2021-03-18,93258.8,Deceased
+716,88,Male,Condition_5,31,Medication_2,2016-12-28,2017-01-28,75107.11,Not Improved
+717,60,Other,Condition_7,34,Medication_2,2018-10-02,2018-11-05,88402.7,Cured
+718,85,Male,Condition_8,47,Medication_5,2019-07-20,2019-09-05,19859.43,Not Improved
+719,51,Other,Condition_10,40,Medication_3,2017-10-19,2017-11-28,44059.51,Deceased
+720,84,Other,Condition_8,32,Medication_2,2018-12-10,2019-01-11,75769.93,Improved
+721,18,Male,Condition_1,30,Medication_1,2018-10-14,2018-11-13,56218.39,Deceased
+722,23,Female,Condition_6,36,Medication_2,2015-11-07,2015-12-13,21741.76,Not Improved
+723,50,Male,Condition_5,20,Medication_5,2020-01-04,2020-01-24,52460.12,Not Improved
+724,61,Female,Condition_10,40,Medication_1,2017-04-11,2017-05-21,56726.31,Not Improved
+725,79,Female,Condition_1,42,Medication_2,2022-03-21,2022-05-02,28084.18,Deceased
+726,86,Female,Condition_8,51,Medication_4,2015-09-10,2015-10-31,26397.72,Not Improved
+727,89,Other,Condition_1,14,Medication_5,2020-06-03,2020-06-17,50749.42,Improved
+728,53,Male,Condition_6,25,Medication_5,2017-10-20,2017-11-14,51711.15,Deceased
+729,41,Other,Condition_2,56,Medication_3,2020-12-02,2021-01-27,22860.97,Not Improved
+730,70,Male,Condition_8,57,Medication_2,2020-08-27,2020-10-23,24467.11,Not Improved
+731,45,Other,Condition_5,12,Medication_1,2020-01-25,2020-02-06,29693.15,Improved
+732,29,Female,Condition_9,2,Medication_4,2017-04-11,2017-04-13,78451.41,Deceased
+733,85,Female,Condition_6,10,Medication_1,2017-04-24,2017-05-04,88268.19,Cured
+734,76,Female,Condition_9,8,Medication_1,2019-01-22,2019-01-30,54881.5,Cured
+735,60,Female,Condition_1,7,Medication_5,2019-01-19,2019-01-26,57832.53,Not Improved
+736,44,Female,Condition_4,13,Medication_3,2019-09-11,2019-09-24,53536.73,Deceased
+737,33,Female,Condition_3,11,Medication_3,2016-01-20,2016-01-31,58870.33,Cured
+738,44,Other,Condition_6,36,Medication_3,2019-03-23,2019-04-28,50818.61,Not Improved
+739,49,Male,Condition_2,20,Medication_5,2020-09-15,2020-10-05,85075.91,Cured
+740,34,Male,Condition_8,58,Medication_1,2016-07-02,2016-08-29,41368.22,Cured
+741,72,Female,Condition_3,46,Medication_5,2022-10-12,2022-11-27,5575.87,Not Improved
+742,60,Male,Condition_9,6,Medication_4,2017-02-27,2017-03-05,49992.69,Deceased
+743,30,Female,Condition_5,44,Medication_4,2022-04-08,2022-05-22,31409.43,Improved
+744,51,Female,Condition_7,12,Medication_3,2020-08-16,2020-08-28,90345.4,Cured
+745,26,Female,Condition_2,23,Medication_4,2022-03-10,2022-04-02,86815.48,Not Improved
+746,34,Other,Condition_2,26,Medication_1,2020-09-21,2020-10-17,83208.94,Cured
+747,56,Other,Condition_8,26,Medication_5,2021-04-20,2021-05-16,14695.3,Improved
+748,88,Male,Condition_8,25,Medication_1,2020-04-27,2020-05-22,36014.57,Deceased
+749,73,Other,Condition_6,35,Medication_2,2017-11-22,2017-12-27,97812.08,Cured
+750,80,Male,Condition_10,39,Medication_4,2020-09-04,2020-10-13,58503.85,Deceased
+751,40,Female,Condition_7,5,Medication_5,2016-11-27,2016-12-02,48823.88,Deceased
+752,59,Female,Condition_1,6,Medication_2,2017-10-25,2017-10-31,81838.33,Cured
+753,36,Other,Condition_3,29,Medication_5,2019-07-20,2019-08-18,77138.57,Deceased
+754,43,Male,Condition_6,20,Medication_5,2019-07-23,2019-08-12,61045.98,Not Improved
+755,29,Other,Condition_1,40,Medication_5,2021-03-28,2021-05-07,31407.27,Not Improved
+756,25,Female,Condition_9,4,Medication_1,2020-02-28,2020-03-03,67431.37,Not Improved
+757,21,Male,Condition_7,45,Medication_5,2021-11-11,2021-12-26,16176.11,Deceased
+758,69,Female,Condition_7,35,Medication_2,2017-08-05,2017-09-09,9849.96,Improved
+759,89,Female,Condition_6,54,Medication_4,2017-05-28,2017-07-21,65989.21,Improved
+760,35,Male,Condition_2,42,Medication_1,2017-12-16,2018-01-27,13439.56,Deceased
+761,35,Male,Condition_3,42,Medication_4,2022-12-20,2023-01-31,2597.79,Deceased
+762,41,Female,Condition_9,28,Medication_5,2022-07-12,2022-08-09,32360.81,Improved
+763,41,Female,Condition_10,1,Medication_5,2022-12-08,2022-12-09,81899.19,Not Improved
+764,70,Other,Condition_10,24,Medication_1,2015-10-16,2015-11-09,21253.99,Not Improved
+765,32,Other,Condition_8,45,Medication_1,2017-12-24,2018-02-07,88833.39,Not Improved
+766,77,Other,Condition_2,34,Medication_5,2016-04-16,2016-05-20,29974.11,Cured
+767,87,Other,Condition_5,40,Medication_1,2020-09-25,2020-11-04,95890.51,Cured
+768,78,Female,Condition_9,58,Medication_4,2020-07-12,2020-09-08,72750.7,Not Improved
+769,55,Male,Condition_1,45,Medication_5,2019-12-26,2020-02-09,87111.47,Not Improved
+770,25,Other,Condition_8,38,Medication_2,2015-11-10,2015-12-18,98703.13,Cured
+771,54,Female,Condition_2,9,Medication_5,2016-05-09,2016-05-18,82347.92,Improved
+772,53,Female,Condition_5,1,Medication_1,2017-10-24,2017-10-25,67125.39,Improved
+773,75,Female,Condition_3,17,Medication_2,2022-03-26,2022-04-12,7658.72,Cured
+774,61,Male,Condition_3,39,Medication_2,2022-07-25,2022-09-02,27827.45,Deceased
+775,48,Other,Condition_8,47,Medication_2,2018-10-24,2018-12-10,23839.28,Not Improved
+776,24,Other,Condition_5,49,Medication_1,2015-03-15,2015-05-03,1814.6,Deceased
+777,78,Female,Condition_8,48,Medication_5,2018-07-22,2018-09-08,90642.48,Deceased
+778,78,Female,Condition_3,34,Medication_4,2015-05-26,2015-06-29,98207.08,Deceased
+779,66,Other,Condition_6,34,Medication_1,2016-09-21,2016-10-25,42529.64,Not Improved
+780,73,Other,Condition_5,22,Medication_3,2019-02-09,2019-03-03,77976.31,Deceased
+781,77,Other,Condition_4,47,Medication_5,2018-09-11,2018-10-28,1477.91,Improved
+782,58,Other,Condition_1,44,Medication_1,2016-01-14,2016-02-27,73860.59,Cured
+783,85,Male,Condition_8,23,Medication_2,2019-05-07,2019-05-30,79600.47,Cured
+784,21,Other,Condition_2,4,Medication_5,2018-10-21,2018-10-25,87448.21,Cured
+785,33,Male,Condition_10,9,Medication_4,2017-02-23,2017-03-04,59713.04,Improved
+786,50,Female,Condition_8,43,Medication_1,2022-05-25,2022-07-07,14730.29,Deceased
+787,59,Female,Condition_3,50,Medication_1,2019-01-13,2019-03-04,29853.3,Deceased
+788,60,Male,Condition_5,53,Medication_3,2017-08-03,2017-09-25,95063.58,Deceased
+789,43,Other,Condition_7,12,Medication_4,2016-03-18,2016-03-30,62034.51,Deceased
+790,45,Other,Condition_2,59,Medication_4,2019-02-02,2019-04-02,56612.27,Cured
+791,27,Other,Condition_5,50,Medication_4,2015-08-05,2015-09-24,63040.32,Cured
+792,22,Other,Condition_7,18,Medication_2,2020-07-19,2020-08-06,43325.17,Cured
+793,83,Other,Condition_8,31,Medication_4,2021-12-25,2022-01-25,18549.79,Cured
+794,87,Male,Condition_1,25,Medication_4,2016-10-18,2016-11-12,36724.96,Not Improved
+795,60,Other,Condition_5,26,Medication_1,2016-06-18,2016-07-14,95862.51,Not Improved
+796,28,Female,Condition_5,42,Medication_2,2017-09-02,2017-10-14,11690.56,Deceased
+797,42,Female,Condition_7,58,Medication_1,2020-08-03,2020-09-30,48686.1,Deceased
+798,42,Male,Condition_1,13,Medication_1,2018-08-13,2018-08-26,38273.3,Cured
+799,87,Other,Condition_5,32,Medication_5,2022-01-02,2022-02-03,4810.63,Not Improved
+800,25,Female,Condition_1,26,Medication_1,2018-11-22,2018-12-18,67230.62,Deceased
+801,86,Male,Condition_10,15,Medication_1,2015-12-05,2015-12-20,95195.63,Deceased
+802,20,Female,Condition_10,3,Medication_2,2017-01-06,2017-01-09,94364.47,Cured
+803,57,Male,Condition_8,40,Medication_2,2016-02-04,2016-03-15,26287.07,Deceased
+804,46,Male,Condition_4,28,Medication_3,2021-06-04,2021-07-02,48928.24,Improved
+805,59,Male,Condition_1,38,Medication_2,2020-02-04,2020-03-13,11929.6,Not Improved
+806,36,Female,Condition_3,45,Medication_3,2017-08-08,2017-09-22,25847.78,Cured
+807,35,Male,Condition_10,25,Medication_2,2015-08-03,2015-08-28,65429.06,Cured
+808,18,Male,Condition_2,46,Medication_5,2019-07-23,2019-09-07,44120.78,Deceased
+809,34,Male,Condition_3,41,Medication_3,2022-07-08,2022-08-18,50240.03,Improved
+810,22,Other,Condition_3,46,Medication_4,2016-11-27,2017-01-12,53675.78,Not Improved
+811,62,Female,Condition_1,36,Medication_2,2018-02-17,2018-03-25,71262.54,Cured
+812,64,Other,Condition_9,15,Medication_4,2018-05-02,2018-05-17,21565.76,Improved
+813,32,Male,Condition_8,32,Medication_2,2017-11-02,2017-12-04,94835.43,Cured
+814,64,Female,Condition_4,28,Medication_3,2020-10-26,2020-11-23,45617.39,Deceased
+815,23,Male,Condition_1,60,Medication_5,2017-03-26,2017-05-25,28447.43,Cured
+816,80,Other,Condition_2,5,Medication_2,2022-10-19,2022-10-24,44324.8,Not Improved
+817,71,Male,Condition_6,15,Medication_1,2020-04-04,2020-04-19,52177.43,Improved
+818,70,Male,Condition_7,58,Medication_2,2016-08-19,2016-10-16,80898.75,Deceased
+819,24,Female,Condition_3,14,Medication_5,2022-03-13,2022-03-27,28309.93,Not Improved
+820,35,Female,Condition_4,41,Medication_3,2019-04-11,2019-05-22,91311.12,Improved
+821,22,Other,Condition_10,4,Medication_3,2017-02-28,2017-03-04,69164.07,Deceased
+822,76,Female,Condition_3,49,Medication_3,2018-05-20,2018-07-08,78263.06,Improved
+823,39,Other,Condition_9,55,Medication_2,2016-07-28,2016-09-21,84141.51,Deceased
+824,45,Other,Condition_8,54,Medication_4,2019-01-24,2019-03-19,80708.04,Deceased
+825,49,Male,Condition_6,28,Medication_5,2018-10-05,2018-11-02,64271.2,Cured
+826,71,Male,Condition_1,31,Medication_5,2015-07-17,2015-08-17,23091.91,Deceased
+827,79,Other,Condition_2,29,Medication_4,2018-02-18,2018-03-19,18787.24,Cured
+828,70,Male,Condition_3,23,Medication_3,2018-11-03,2018-11-26,1140.14,Cured
+829,79,Other,Condition_5,11,Medication_4,2015-08-15,2015-08-26,86230.38,Improved
+830,69,Male,Condition_6,41,Medication_4,2015-11-03,2015-12-14,15599.56,Deceased
+831,60,Other,Condition_1,19,Medication_4,2019-12-20,2020-01-08,90248.83,Improved
+832,28,Other,Condition_6,48,Medication_1,2020-01-04,2020-02-21,56453.86,Deceased
+833,64,Female,Condition_10,3,Medication_3,2020-03-21,2020-03-24,3940.64,Cured
+834,89,Other,Condition_4,9,Medication_3,2018-09-04,2018-09-13,75978.35,Deceased
+835,44,Other,Condition_4,21,Medication_3,2019-09-22,2019-10-13,35219.87,Deceased
+836,53,Male,Condition_2,24,Medication_3,2022-08-17,2022-09-10,88670.56,Cured
+837,78,Other,Condition_9,44,Medication_5,2019-08-20,2019-10-03,52697.26,Not Improved
+838,26,Male,Condition_8,6,Medication_1,2021-03-10,2021-03-16,78894.48,Cured
+839,31,Male,Condition_5,8,Medication_2,2022-03-28,2022-04-05,49751.75,Improved
+840,84,Other,Condition_1,19,Medication_4,2017-08-12,2017-08-31,85769.69,Deceased
+841,74,Other,Condition_1,19,Medication_2,2016-01-28,2016-02-16,38292.05,Improved
+842,84,Other,Condition_6,27,Medication_5,2020-11-21,2020-12-18,91463.18,Not Improved
+843,80,Other,Condition_9,54,Medication_5,2022-08-10,2022-10-03,34903.47,Improved
+844,57,Male,Condition_5,15,Medication_4,2020-05-25,2020-06-09,55357.5,Cured
+845,36,Female,Condition_5,30,Medication_2,2017-12-18,2018-01-17,58217.61,Not Improved
+846,41,Male,Condition_3,11,Medication_2,2016-01-11,2016-01-22,31058.96,Improved
+847,74,Female,Condition_6,12,Medication_2,2015-11-11,2015-11-23,92124.89,Not Improved
+848,36,Female,Condition_8,35,Medication_2,2019-02-01,2019-03-08,3074.73,Deceased
+849,81,Male,Condition_8,60,Medication_3,2017-01-24,2017-03-25,23546.7,Not Improved
+850,55,Female,Condition_5,49,Medication_5,2017-10-24,2017-12-12,43498.05,Deceased
+851,61,Other,Condition_2,47,Medication_4,2015-03-22,2015-05-08,67443.5,Cured
+852,57,Male,Condition_7,40,Medication_2,2022-06-03,2022-07-13,55115.83,Not Improved
+853,25,Other,Condition_4,38,Medication_5,2018-05-07,2018-06-14,29006.55,Cured
+854,28,Other,Condition_8,44,Medication_1,2021-04-16,2021-05-30,64169.01,Not Improved
+855,83,Male,Condition_6,26,Medication_2,2021-06-13,2021-07-09,29519.57,Not Improved
+856,19,Female,Condition_6,23,Medication_3,2022-09-03,2022-09-26,26603.98,Improved
+857,74,Other,Condition_7,52,Medication_4,2019-03-26,2019-05-17,10160.48,Deceased
+858,71,Male,Condition_10,39,Medication_1,2017-04-10,2017-05-19,26800.88,Deceased
+859,85,Female,Condition_2,60,Medication_5,2021-02-01,2021-04-02,93261.33,Deceased
+860,52,Female,Condition_3,36,Medication_4,2017-04-06,2017-05-12,64891.29,Deceased
+861,55,Other,Condition_8,3,Medication_3,2019-08-18,2019-08-21,15949.21,Deceased
+862,46,Male,Condition_1,10,Medication_3,2019-11-27,2019-12-07,67270.88,Deceased
+863,33,Other,Condition_5,27,Medication_2,2022-12-21,2023-01-17,97049.3,Improved
+864,21,Male,Condition_5,32,Medication_1,2020-10-16,2020-11-17,86888.76,Deceased
+865,51,Other,Condition_8,45,Medication_1,2020-09-24,2020-11-08,41999.81,Cured
+866,51,Male,Condition_10,4,Medication_2,2020-08-23,2020-08-27,35183.39,Improved
+867,63,Male,Condition_1,18,Medication_3,2021-11-12,2021-11-30,26819.14,Cured
+868,55,Female,Condition_9,41,Medication_1,2018-11-06,2018-12-17,72071.99,Cured
+869,39,Other,Condition_6,56,Medication_3,2019-05-22,2019-07-17,21144.52,Not Improved
+870,30,Other,Condition_10,23,Medication_2,2015-03-17,2015-04-09,68958.77,Not Improved
+871,65,Female,Condition_7,22,Medication_2,2016-04-05,2016-04-27,66008.66,Improved
+872,42,Other,Condition_10,45,Medication_5,2016-07-15,2016-08-29,79950.88,Cured
+873,32,Male,Condition_1,31,Medication_3,2019-12-12,2020-01-12,66022.2,Improved
+874,74,Other,Condition_9,49,Medication_3,2017-12-10,2018-01-28,36882.7,Cured
+875,33,Male,Condition_3,55,Medication_2,2018-05-05,2018-06-29,93929.93,Improved
+876,34,Male,Condition_7,45,Medication_1,2016-01-25,2016-03-10,2537.02,Deceased
+877,73,Male,Condition_4,7,Medication_1,2015-08-04,2015-08-11,28875.28,Not Improved
+878,23,Male,Condition_5,43,Medication_1,2016-02-20,2016-04-03,61417.29,Improved
+879,43,Male,Condition_6,2,Medication_1,2017-12-09,2017-12-11,84873.36,Not Improved
+880,63,Male,Condition_9,50,Medication_5,2018-09-19,2018-11-08,18849.61,Cured
+881,30,Other,Condition_1,34,Medication_2,2018-05-06,2018-06-09,75107.02,Cured
+882,30,Male,Condition_9,55,Medication_4,2020-12-19,2021-02-12,90795.69,Improved
+883,74,Other,Condition_2,12,Medication_3,2021-07-07,2021-07-19,85029.22,Improved
+884,70,Male,Condition_6,8,Medication_4,2016-09-05,2016-09-13,80945.96,Deceased
+885,64,Other,Condition_5,36,Medication_1,2016-06-16,2016-07-22,35635.14,Cured
+886,67,Female,Condition_8,39,Medication_3,2022-04-18,2022-05-27,90813.29,Deceased
+887,55,Female,Condition_4,55,Medication_1,2022-11-12,2023-01-06,64393.43,Improved
+888,19,Other,Condition_8,44,Medication_1,2021-08-17,2021-09-30,25097.89,Cured
+889,33,Male,Condition_7,26,Medication_5,2016-12-06,2017-01-01,80771.09,Cured
+890,64,Male,Condition_6,13,Medication_5,2021-02-08,2021-02-21,72789.11,Deceased
+891,81,Female,Condition_10,38,Medication_3,2021-06-16,2021-07-24,18307.14,Deceased
+892,80,Other,Condition_5,10,Medication_4,2016-02-09,2016-02-19,66420.72,Deceased
+893,81,Male,Condition_3,2,Medication_1,2015-02-16,2015-02-18,2464.8,Cured
+894,40,Female,Condition_10,44,Medication_3,2017-05-20,2017-07-03,70450.35,Cured
+895,27,Other,Condition_9,50,Medication_4,2022-04-10,2022-05-30,23471.35,Deceased
+896,80,Other,Condition_5,35,Medication_3,2015-01-14,2015-02-18,83531.94,Cured
+897,67,Female,Condition_6,55,Medication_4,2022-08-02,2022-09-26,1582.64,Cured
+898,40,Other,Condition_5,57,Medication_2,2022-07-05,2022-08-31,54890.03,Not Improved
+899,67,Female,Condition_2,37,Medication_4,2022-08-18,2022-09-24,16472.33,Improved
+900,82,Male,Condition_7,17,Medication_4,2021-10-22,2021-11-08,41624.39,Not Improved
+901,54,Female,Condition_1,2,Medication_5,2015-03-27,2015-03-29,75016.77,Not Improved
+902,62,Other,Condition_10,2,Medication_3,2021-02-14,2021-02-16,31267.69,Not Improved
+903,63,Female,Condition_6,4,Medication_2,2018-04-21,2018-04-25,87680.27,Not Improved
+904,28,Other,Condition_2,56,Medication_3,2016-06-06,2016-08-01,65247.0,Cured
+905,86,Female,Condition_1,30,Medication_4,2021-05-01,2021-05-31,76500.54,Deceased
+906,20,Female,Condition_7,37,Medication_4,2020-10-04,2020-11-10,87810.53,Deceased
+907,30,Other,Condition_4,22,Medication_4,2020-03-20,2020-04-11,69958.03,Not Improved
+908,64,Female,Condition_4,32,Medication_1,2018-05-09,2018-06-10,35988.59,Cured
+909,56,Other,Condition_7,52,Medication_2,2016-12-28,2017-02-18,71160.41,Cured
+910,61,Female,Condition_2,37,Medication_5,2022-07-07,2022-08-13,83030.77,Not Improved
+911,27,Other,Condition_5,33,Medication_3,2021-11-18,2021-12-21,82290.69,Not Improved
+912,43,Female,Condition_7,17,Medication_5,2022-11-25,2022-12-12,64205.82,Improved
+913,20,Other,Condition_9,56,Medication_2,2022-04-22,2022-06-17,6551.64,Deceased
+914,52,Other,Condition_9,52,Medication_5,2021-10-24,2021-12-15,34022.15,Cured
+915,84,Male,Condition_6,30,Medication_2,2018-03-24,2018-04-23,2456.22,Not Improved
+916,73,Female,Condition_6,56,Medication_1,2018-07-09,2018-09-03,3726.07,Not Improved
+917,38,Female,Condition_10,16,Medication_4,2018-02-05,2018-02-21,45462.57,Improved
+918,21,Male,Condition_5,30,Medication_4,2021-07-21,2021-08-20,89210.84,Cured
+919,43,Male,Condition_5,9,Medication_1,2019-05-22,2019-05-31,81163.51,Improved
+920,23,Other,Condition_8,51,Medication_1,2015-02-11,2015-04-03,87603.95,Not Improved
+921,26,Female,Condition_6,43,Medication_1,2021-12-27,2022-02-08,17619.28,Improved
+922,48,Male,Condition_10,48,Medication_5,2016-09-22,2016-11-09,43433.66,Not Improved
+923,81,Male,Condition_4,39,Medication_1,2020-06-27,2020-08-05,53220.93,Deceased
+924,48,Female,Condition_4,10,Medication_1,2017-04-09,2017-04-19,37394.65,Deceased
+925,70,Female,Condition_10,4,Medication_4,2020-12-04,2020-12-08,1591.09,Not Improved
+926,87,Female,Condition_8,44,Medication_2,2019-03-12,2019-04-25,76718.06,Deceased
+927,65,Female,Condition_1,42,Medication_5,2015-12-22,2016-02-02,54588.6,Cured
+928,48,Female,Condition_9,25,Medication_3,2020-11-04,2020-11-29,55253.38,Improved
+929,74,Female,Condition_1,59,Medication_4,2019-05-03,2019-07-01,87529.55,Improved
+930,56,Male,Condition_3,59,Medication_4,2020-11-14,2021-01-12,45372.67,Cured
+931,53,Male,Condition_8,31,Medication_4,2020-12-14,2021-01-14,13233.89,Cured
+932,38,Other,Condition_5,33,Medication_1,2020-07-20,2020-08-22,94170.07,Not Improved
+933,76,Other,Condition_1,49,Medication_1,2017-11-15,2018-01-03,39025.91,Improved
+934,18,Female,Condition_4,41,Medication_3,2020-10-03,2020-11-13,33559.1,Cured
+935,38,Male,Condition_9,46,Medication_2,2021-06-15,2021-07-31,90224.76,Deceased
+936,35,Female,Condition_3,44,Medication_5,2020-05-07,2020-06-20,91651.01,Cured
+937,71,Female,Condition_3,26,Medication_4,2018-01-01,2018-01-27,29431.01,Improved
+938,29,Female,Condition_4,17,Medication_2,2015-07-20,2015-08-06,57705.41,Deceased
+939,51,Male,Condition_2,24,Medication_2,2016-01-23,2016-02-16,78879.65,Deceased
+940,76,Other,Condition_8,8,Medication_2,2018-04-28,2018-05-06,99999.4,Not Improved
+941,54,Other,Condition_8,25,Medication_2,2021-04-20,2021-05-15,23157.8,Improved
+942,54,Other,Condition_4,27,Medication_2,2021-03-01,2021-03-28,21763.5,Not Improved
+943,51,Male,Condition_10,29,Medication_2,2020-10-22,2020-11-20,95017.34,Deceased
+944,28,Male,Condition_8,9,Medication_3,2021-11-07,2021-11-16,7087.16,Deceased
+945,72,Other,Condition_10,17,Medication_1,2016-09-02,2016-09-19,60437.93,Cured
+946,60,Male,Condition_8,59,Medication_3,2015-01-09,2015-03-09,30982.73,Deceased
+947,56,Female,Condition_6,9,Medication_5,2015-10-06,2015-10-15,42571.54,Not Improved
+948,39,Other,Condition_8,60,Medication_3,2022-03-03,2022-05-02,97203.35,Not Improved
+949,85,Female,Condition_3,17,Medication_1,2020-01-05,2020-01-22,7012.35,Deceased
+950,53,Other,Condition_6,60,Medication_4,2019-05-20,2019-07-19,66503.58,Not Improved
+951,84,Female,Condition_7,58,Medication_2,2020-12-16,2021-02-12,82589.23,Improved
+952,89,Other,Condition_8,4,Medication_2,2017-01-08,2017-01-12,52463.96,Improved
+953,22,Female,Condition_5,11,Medication_4,2021-02-16,2021-02-27,54904.39,Cured
+954,74,Female,Condition_9,32,Medication_4,2022-02-28,2022-04-01,56909.86,Improved
+955,33,Female,Condition_2,14,Medication_3,2017-03-24,2017-04-07,4723.45,Not Improved
+956,90,Other,Condition_10,14,Medication_5,2015-09-25,2015-10-09,27849.03,Improved
+957,71,Male,Condition_4,50,Medication_4,2016-06-01,2016-07-21,73363.73,Not Improved
+958,33,Female,Condition_6,38,Medication_1,2020-03-01,2020-04-08,11821.6,Cured
+959,76,Other,Condition_8,30,Medication_3,2015-06-02,2015-07-02,2422.85,Deceased
+960,59,Other,Condition_10,9,Medication_2,2015-11-10,2015-11-19,66256.58,Not Improved
+961,25,Other,Condition_2,36,Medication_5,2021-02-13,2021-03-21,39080.73,Not Improved
+962,40,Male,Condition_7,6,Medication_1,2018-03-13,2018-03-19,86077.84,Deceased
+963,54,Other,Condition_3,8,Medication_3,2022-07-24,2022-08-01,18596.17,Not Improved
+964,34,Female,Condition_2,54,Medication_3,2018-08-15,2018-10-08,74571.63,Deceased
+965,78,Female,Condition_10,39,Medication_4,2016-07-26,2016-09-03,33461.5,Not Improved
+966,41,Female,Condition_7,6,Medication_1,2020-08-22,2020-08-28,25368.03,Improved
+967,37,Female,Condition_9,41,Medication_5,2016-05-15,2016-06-25,8366.91,Deceased
+968,28,Female,Condition_5,10,Medication_2,2019-04-17,2019-04-27,12587.41,Deceased
+969,55,Other,Condition_1,36,Medication_1,2015-09-04,2015-10-10,55952.32,Deceased
+970,70,Male,Condition_8,43,Medication_5,2019-06-09,2019-07-22,24215.73,Cured
+971,82,Male,Condition_2,48,Medication_4,2017-03-27,2017-05-14,76686.32,Deceased
+972,23,Male,Condition_7,57,Medication_3,2020-10-24,2020-12-20,62796.19,Deceased
+973,75,Other,Condition_5,22,Medication_2,2018-03-03,2018-03-25,98046.6,Not Improved
+974,31,Female,Condition_9,2,Medication_1,2021-02-01,2021-02-03,22099.21,Improved
+975,79,Female,Condition_7,56,Medication_5,2022-05-20,2022-07-15,85365.72,Not Improved
+976,68,Female,Condition_2,9,Medication_2,2015-04-04,2015-04-13,95160.34,Cured
+977,42,Male,Condition_4,31,Medication_2,2018-07-27,2018-08-27,13648.83,Improved
+978,29,Female,Condition_8,10,Medication_4,2021-01-04,2021-01-14,54030.63,Improved
+979,37,Other,Condition_8,32,Medication_4,2015-08-19,2015-09-20,15003.44,Improved
+980,43,Female,Condition_10,54,Medication_4,2015-06-01,2015-07-25,65203.61,Cured
+981,73,Female,Condition_8,48,Medication_5,2019-01-16,2019-03-05,87460.39,Deceased
+982,80,Other,Condition_10,47,Medication_5,2022-04-23,2022-06-09,11393.86,Cured
+983,85,Male,Condition_7,37,Medication_3,2016-05-21,2016-06-27,56261.29,Deceased
+984,78,Male,Condition_8,40,Medication_3,2022-12-14,2023-01-23,62555.43,Cured
+985,38,Female,Condition_4,31,Medication_3,2022-04-17,2022-05-18,74326.04,Improved
+986,61,Other,Condition_8,9,Medication_3,2021-07-27,2021-08-05,12063.12,Not Improved
+987,78,Male,Condition_10,14,Medication_3,2016-11-16,2016-11-30,34065.61,Improved
+988,40,Male,Condition_3,39,Medication_4,2016-07-16,2016-08-24,23760.39,Not Improved
+989,48,Male,Condition_9,4,Medication_1,2020-05-12,2020-05-16,57455.57,Improved
+990,40,Other,Condition_1,52,Medication_1,2020-07-04,2020-08-25,11048.18,Improved
+991,33,Other,Condition_4,32,Medication_3,2020-06-25,2020-07-27,17880.85,Cured
+992,89,Female,Condition_3,55,Medication_5,2016-12-02,2017-01-26,62141.03,Deceased
+993,76,Male,Condition_2,51,Medication_5,2016-09-02,2016-10-23,68989.28,Cured
+994,39,Other,Condition_2,56,Medication_2,2020-03-24,2020-05-19,15774.91,Not Improved
+995,74,Other,Condition_8,47,Medication_1,2017-11-12,2017-12-29,18752.11,Not Improved
+996,35,Male,Condition_4,29,Medication_4,2015-04-27,2015-05-26,91655.06,Deceased
+997,61,Female,Condition_9,11,Medication_1,2019-06-23,2019-07-04,34595.2,Deceased
+998,64,Other,Condition_4,10,Medication_5,2021-04-05,2021-04-15,22866.5,Deceased
+999,70,Female,Condition_8,55,Medication_5,2020-01-15,2020-03-10,24191.14,Improved
+1000,19,Other,Condition_9,5,Medication_1,2020-06-13,2020-06-18,23382.71,Improved
